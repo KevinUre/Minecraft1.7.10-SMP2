@@ -137,3 +137,10 @@ recipes.addShaped(<IC2:itemArmorJetpack>,
 recipes.remove(<IC2:blockPersonal:1>);
 recipes.remove(<IC2:blockPersonal:2>);
 recipes.remove(<Railcraft:machine.alpha:6>); 
+
+# Ritual Diviner
+recipes.remove(<AWWayofTime:itemRitualDiviner>);
+recipes.addShaped(<AWWayofTime:itemRitualDiviner>,
+    [[<ore:blockDiamond>, <AWWayofTime:airScribeTool>, <ore:blockDiamond>],
+	[<AWWayofTime:waterScribeTool>, <minecraft:end_stone>, <AWWayofTime:fireScribeTool>],
+	[<ore:blockDiamond>, <AWWayofTime:earthScribeTool>, <ore:blockDiamond>]]);
