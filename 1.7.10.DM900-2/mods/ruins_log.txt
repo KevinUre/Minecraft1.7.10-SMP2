@@ -1,0 +1,12 @@
+
+Loading excluded list from: C:\Users\Death\AppData\Roaming\.minecraft\1.7.10.DM900-2\saves\How high are the Clouds_\DIM-19
+No exclusions found for this world.
+
+Loading options from: C:\Users\Death\AppData\Roaming\.minecraft\1.7.10.DM900-2\saves\How high are the Clouds_\DIM-19
+tries_per_chunk_normal = 6
+chance_to_spawn_normal = 10.0
+templateInstancesMinDistance = 256.0
+anyRuinsMinDistance = 64.0
+Ruins mod loaded successfully for world C:\Users\Death\AppData\Roaming\.minecraft\1.7.10.DM900-2\saves\How high are the Clouds_\DIM-19, template files: 31
+les: 31
+ate files: 31

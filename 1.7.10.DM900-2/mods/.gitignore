@@ -1,0 +1,9 @@
+#Re-enable Blacklisting
+!*
+
+QUARANTINE/
+Testing/
+
+Opis-1.2.5_1.7.10.jar
+MobiusCore-1.2.5_1.7.10.jar
+VillageInfoSSP-1.7.10-2.1.jar

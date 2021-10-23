@@ -1,0 +1,1949 @@
+<AWWayofTime:AlchemicalWizardrybloodRune>, Blood Rune
+<AWWayofTime:AlchemicalWizardrytile.blockSpellEffect>, Crucible of Fire
+<AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement>, Unstable Spell Empowerer
+<AWWayofTime:AlchemicalWizardrytile.blockSpellModifier>, Default Spell Modifier
+<AWWayofTime:AlchemicalWizardrytile.blockSpellParadigm>, Particle Generator
+<AWWayofTime:Altar>, Blood Altar
+<AWWayofTime:activationCrystal>, Weak Activation Crystal
+<AWWayofTime:aether>, Aether
+<AWWayofTime:airScribeTool>, Elemental Inscription Tool: Air
+<AWWayofTime:airSigil>, Air Sigil
+<AWWayofTime:alchemyFlask>, Potion Flask
+<AWWayofTime:apprenticeBloodOrb>, Apprentice Blood Orb
+<AWWayofTime:aquasalus>, Aquasalus
+<AWWayofTime:archmageBloodOrb>, Archmage's Blood Orb
+<AWWayofTime:armourForge>, Soul Armour Forge
+<AWWayofTime:armourInhibitor>, Armour Inhibitor
+<AWWayofTime:averageLengtheningCatalyst>, Average Lengthening Catalyst
+<AWWayofTime:averagePowerCatalyst>, Average Power Catalyst
+<AWWayofTime:blankSlate>, Blank Slate
+<AWWayofTime:blankSpell>, Unbound Crystal
+<AWWayofTime:blockAlchemicCalcinator>, Alchemic Calcinator
+<AWWayofTime:blockConduit>, Spell Conduit
+<AWWayofTime:blockCrucible>, Incense Crucible
+<AWWayofTime:blockCrystal>, Crystal Cluster
+<AWWayofTime:blockCrystalBelljar>, Crystal Belljar
+<AWWayofTime:blockDemonChest>, Demon's Chest
+<AWWayofTime:blockEnchantmentGlyph>, Glyph of the Adept Enchanter
+<AWWayofTime:blockHomHeart>, Spell Table
+<AWWayofTime:blockMimic>, Mimic Block
+<AWWayofTime:blockPedestal>, Arcane Pedestal
+<AWWayofTime:blockPlinth>, Arcane Plinth
+<AWWayofTime:blockReagentConduit>, Alchemy Relay
+<AWWayofTime:blockSchemSaver>, Schematic Saver
+<AWWayofTime:blockStabilityGlyph>, Glyph of Rigid Stability
+<AWWayofTime:blockTeleposer>, Teleposer
+<AWWayofTime:blockWritingTable>, Alchemic Chemistry Set
+<AWWayofTime:bloodLight>, Blood Light
+<AWWayofTime:bloodMagicBaseAlchemyItems>, Offensa
+<AWWayofTime:bloodMagicBaseItems>, Quartz Rod
+<AWWayofTime:bloodMagicIncenseItem>, Wood Ash
+<AWWayofTime:bloodSocket>, Filled Socket
+<AWWayofTime:bloodStoneBrick>, Bloodstone Brick
+<AWWayofTime:boundAxe>, Bound Axe
+<AWWayofTime:boundBoots>, Bound Boots
+<AWWayofTime:boundBootsEarth>, Earth Omega Boots
+<AWWayofTime:boundBootsFire>, Fire Omega Boots
+<AWWayofTime:boundBootsWater>, Water Omega Boots
+<AWWayofTime:boundBootsWind>, Wind Omega Boots
+<AWWayofTime:boundHelmet>, Bound Helmet
+<AWWayofTime:boundHelmetEarth>, Earth Omega Helmet
+<AWWayofTime:boundHelmetFire>, Fire Omega Helmet
+<AWWayofTime:boundHelmetWater>, Water Omega Helmet
+<AWWayofTime:boundHelmetWind>, Wind Omega Helmet
+<AWWayofTime:boundLeggings>, Bound Leggings
+<AWWayofTime:boundLeggingsEarth>, Earth Omega Leggings
+<AWWayofTime:boundLeggingsFire>, Fire Omega Leggings
+<AWWayofTime:boundLeggingsWater>, Water Omega Leggings
+<AWWayofTime:boundLeggingsWind>, Wind Omega Leggings
+<AWWayofTime:boundPickaxe>, Bound Pickaxe
+<AWWayofTime:boundPlate>, Bound Plate
+<AWWayofTime:boundPlateEarth>, Earth Omega Plate
+<AWWayofTime:boundPlateFire>, Fire Omega Plate
+<AWWayofTime:boundPlateWater>, Water Omega Plate
+<AWWayofTime:boundPlateWind>, Wind Omega Plate
+<AWWayofTime:boundShovel>, Bound Shovel
+<AWWayofTime:bucketLife>, Bucket of Life
+<AWWayofTime:creativeDagger>, Creative Sacrificial Knife
+<AWWayofTime:creativeFiller>, Orb of Testing
+<AWWayofTime:crepitous>, Crepitous
+<AWWayofTime:crystallos>, Crystallos
+<AWWayofTime:customTool>, Dynamic Mace
+<AWWayofTime:daggerOfSacrifice>, Dagger of Sacrifice
+<AWWayofTime:dawnScribeTool>, Elemental Inscription Tool: Dawn
+<AWWayofTime:demonBloodShard>, Demon Blood Shard
+<AWWayofTime:demonPlacer>, Demon Crystal
+<AWWayofTime:demonPortalMain>, Demon Portal
+<AWWayofTime:demonicSlate>, Demonic Slate
+<AWWayofTime:demonicTelepositionFocus>, Demonic Teleposition Focus
+<AWWayofTime:divinationSigil>, Divination Sigil
+<AWWayofTime:duskScribeTool>, Elemental Inscription Tool: Dusk
+<AWWayofTime:earthScribeTool>, Elemental Inscription Tool: Earth
+<AWWayofTime:efficiencyRune>, Efficiency Rune
+<AWWayofTime:emptySocket>, Empty Socket
+<AWWayofTime:energyBazooka>, Energy Bazooka
+<AWWayofTime:energyBlaster>, Energy Blaster
+<AWWayofTime:energySword>, Bound Blade
+<AWWayofTime:enhancedFillingAgent>, Enhanced Filling Agent
+<AWWayofTime:enhancedTelepositionFocus>, Enhanced Teleposition Focus
+<AWWayofTime:fireScribeTool>, Elemental Inscription Tool: Fire
+<AWWayofTime:fluidSigil>, 
+<AWWayofTime:greaterLengtheningCatalyst>, Greater Lengthening Catalyst
+<AWWayofTime:greaterPowerCatalyst>, Greater Power Catalyst
+<AWWayofTime:growthSigil>, Sigil of the Green Grove
+<AWWayofTime:imbuedSlate>, Imbued Slate
+<AWWayofTime:imperfectRitualStone>, Imperfect Ritual Stone
+<AWWayofTime:incendium>, Incendium
+<AWWayofTime:inputRoutingFocus>, Input Routing Focus
+<AWWayofTime:itemAssassinSigil>, Sigil of the Assassin
+<AWWayofTime:itemAttunedCrystal>, Alchemic Router
+<AWWayofTime:itemBloodLightSigil>, Sigil of the Blood Lamp
+<AWWayofTime:itemBloodPack>, Blood Letter's Pack
+<AWWayofTime:itemCombinationalCatalyst>, Combinational Catalyst
+<AWWayofTime:itemComplexSpellCrystal>, Complex Spell Crystal
+<AWWayofTime:itemCompressionSigil>, Sigil of Compression
+<AWWayofTime:itemDestinationClearer>, Alchemic Cleanser
+<AWWayofTime:itemHarvestSigil>, Harvest Goddess Sigil
+<AWWayofTime:itemKeyOfDiablo>, Key of Binding
+<AWWayofTime:itemMailCatalogue>, Mail Order Catalogue
+<AWWayofTime:itemRitualDiviner>, Ritual Diviner
+<AWWayofTime:itemTankSegmenter>, Alchemic Segmenter
+<AWWayofTime:largeBloodStoneBrick>, Large Bloodstone Brick
+<AWWayofTime:lavaCrystal>, Lava Crystal
+<AWWayofTime:lavaSigil>, Lava Sigil
+<AWWayofTime:lifeEssence>, Life Essence
+<AWWayofTime:magicales>, Magicales
+<AWWayofTime:magicianBloodOrb>, Magician's Blood Orb
+<AWWayofTime:masterBloodOrb>, Master Blood Orb
+<AWWayofTime:masterStone>, Master Ritual Stone
+<AWWayofTime:mundaneLengtheningCatalyst>, Mundane Lengthening Catalyst
+<AWWayofTime:mundanePowerCatalyst>, Mundane Power Catalyst
+<AWWayofTime:outputRoutingFocus>, Default Output Routing Focus
+<AWWayofTime:reinforcedSlate>, Reinforced Slate
+<AWWayofTime:reinforcedTelepositionFocus>, Reinforced Teleposition Focus
+<AWWayofTime:ritualDismantler>, Ritual Dismantler
+<AWWayofTime:ritualStone>, Ritual Stone
+<AWWayofTime:runeOfSacrifice>, Rune of Sacrifice
+<AWWayofTime:runeOfSelfSacrifice>, Rune of Self-Sacrifice
+<AWWayofTime:sacrificialKnife>, Sacrificial Knife
+<AWWayofTime:sanctus>, Sanctus
+<AWWayofTime:sanguineBoots>, Sanguine Boots
+<AWWayofTime:sanguineHelmet>, Sanguine Helmet
+<AWWayofTime:sanguinePants>, Sanguine Leggings
+<AWWayofTime:sanguineRobe>, Sanguine Robes
+<AWWayofTime:seerSigil>, Sigil of Sight
+<AWWayofTime:sigilOfElementalAffinity>, Sigil of Elemental Affinity
+<AWWayofTime:sigilOfEnderSeverance>, Sigil of Ender Severance
+<AWWayofTime:sigilOfHaste>, Sigil of Haste
+<AWWayofTime:sigilOfHolding>, Sigil of Holding
+<AWWayofTime:sigilOfMagnetism>, Sigil of Magnetism
+<AWWayofTime:sigilOfSupression>, Sigil of Supression
+<AWWayofTime:sigilOfTheBridge>, Sigil of the Phantom Bridge
+<AWWayofTime:sigilOfTheFastMiner>, Sigil of the Fast Miner
+<AWWayofTime:sigilOfWind>, Sigil of the Whirlwind
+<AWWayofTime:simpleCatalyst>, Simple Catalyst
+<AWWayofTime:spectralBlock>, Spectral Block
+<AWWayofTime:spectralContainer>, Spectral Container
+<AWWayofTime:speedRune>, Speed Rune
+<AWWayofTime:standardBindingAgent>, Standard Binding Agent
+<AWWayofTime:standardFillingAgent>, Standard Filling Agent
+<AWWayofTime:telepositionFocus>, Teleposition Focus
+<AWWayofTime:tennebrae>, Tenebrae
+<AWWayofTime:terrae>, Terrae
+<AWWayofTime:transcendentBloodOrb>, Transcendent Blood Orb
+<AWWayofTime:voidSigil>, Void Sigil
+<AWWayofTime:waterScribeTool>, Elemental Inscription Tool: Water
+<AWWayofTime:waterSigil>, Water Sigil
+<AWWayofTime:weakBindingAgent>, Weak Binding Agent
+<AWWayofTime:weakBloodOrb>, Weak Blood Orb
+<AWWayofTime:weakBloodShard>, Weak Blood Shard
+<AWWayofTime:weakFillingAgent>, Weak Filling Agent
+<Baubles:Ring>, Miner's Ring
+<BiblioCraft:Armor Stand>, Armor Stand
+<BiblioCraft:BiblioBell>, Desk Bell
+<BiblioCraft:BiblioBorderlessPainting>, Oak Painting Frame
+<BiblioCraft:BiblioCase>, Oak Case
+<BiblioCraft:BiblioClipboard>, tile.BiblioClipboard.name
+<BiblioCraft:BiblioClock>, Oak Clock
+<BiblioCraft:BiblioDesk>, Oak Desk
+<BiblioCraft:BiblioFancyPainting>, Oak Painting Frame
+<BiblioCraft:BiblioFancySign>, Oak Fancy Sign
+<BiblioCraft:BiblioFlatPainting>, Oak Painting Frame
+<BiblioCraft:BiblioIronLamp>, Fancy Lamp
+<BiblioCraft:BiblioIronLantern>, Fancy Lantern
+<BiblioCraft:BiblioLabel>, Oak Wood Label
+<BiblioCraft:BiblioLamp>, Fancy Lamp
+<BiblioCraft:BiblioLantern>, Fancy Lantern
+<BiblioCraft:BiblioMapFrames>, Oak Map Frame
+<BiblioCraft:BiblioMiddlePainting>, Oak Painting Frame
+<BiblioCraft:BiblioPaintPress>, Painting Press
+<BiblioCraft:BiblioPaneler>, Oak Furniture Paneler
+<BiblioCraft:BiblioPotionShelf>, Oak Potion Shelf
+<BiblioCraft:BiblioRack>, Oak Tool Rack
+<BiblioCraft:BiblioSeats>, Oak Seat
+<BiblioCraft:BiblioShelf>, Oak Shelf
+<BiblioCraft:BiblioSimplePainting>, Oak Painting Frame
+<BiblioCraft:BiblioStuffs>, Cookie Jar
+<BiblioCraft:BiblioSwordPedestal>, Sword Pedestal
+<BiblioCraft:BiblioTable>, Oak Table
+<BiblioCraft:BiblioTypewriter>, White Typewriter
+<BiblioCraft:BiblioWorkbench>, Oak Fancy Workbench
+<BiblioCraft:Bibliotheca>, Oak Bookcase
+<BiblioCraft:BookcaseFilled>, Oak Bookcase
+<BiblioCraft:Printing Press>, Printing Press
+<BiblioCraft:Typesetting Machine>, Typesetting Table
+<BiblioCraft:item.AtlasBook>, Atlas
+<BiblioCraft:item.AtlasPlate>, Atlas Plate
+<BiblioCraft:item.BiblioChase>, Print Press Chase
+<BiblioCraft:item.BiblioClipboard>, Clipboard
+<BiblioCraft:item.BiblioCreativeLock>, Lock and Key
+<BiblioCraft:item.BiblioDrill>, Screw Gun
+<BiblioCraft:item.BiblioGlasses>, Reading Glasses
+<BiblioCraft:item.BiblioMapTool>, Drafting Compass
+<BiblioCraft:item.BiblioRedBook>, Redstone: Volume I
+<BiblioCraft:item.BiblioWayPointCompass>, Waypoint Compass
+<BiblioCraft:item.BigBook>, Big Writing Book
+<BiblioCraft:item.DeathCompass>, Eternal Compass
+<BiblioCraft:item.EnchantedPlate>, Enchanted Plate
+<BiblioCraft:item.FramingBoard>, Framing Board
+<BiblioCraft:item.FramingSaw>, Framing Saw
+<BiblioCraft:item.FramingSheet>, Framing Sheet
+<BiblioCraft:item.HandDrill>, Hand Drill
+<BiblioCraft:item.PaintingCanvas>, Painting Canvas
+<BiblioCraft:item.PlumbLine>, Plumb line
+<BiblioCraft:item.PrintPlate>, Print Press Plate
+<BiblioCraft:item.RecipeBook>, Empty Recipe Book
+<BiblioCraft:item.SlottedBook>, Slotted Book
+<BiblioCraft:item.StockroomCatalog>, Stockroom Catalog
+<BiblioCraft:item.TesterItem>, ItemStack Name Tester
+<BiblioCraft:item.seatBack>, Oak Seat Back
+<BiblioCraft:item.seatBack2>, Oak Seat Back
+<BiblioCraft:item.seatBack3>, Oak Seat Back
+<BiblioCraft:item.seatBack4>, Oak Seat Back
+<BiblioCraft:item.seatBack5>, Oak Seat Back
+<BiblioCraft:item.tape>, Tape Measure Reel
+<BiblioCraft:item.tapeMeasure>, Tape Measure
+<BiblioCraft:tile.BiblioFramedChest>, Framed Chest
+<BuildCraft|Builders:architectBlock>, Architect Table
+<BuildCraft|Builders:blueprintItem>, Blueprint
+<BuildCraft|Builders:builderBlock>, Builder
+<BuildCraft|Builders:constructionMarkerBlock>, Construction Mark
+<BuildCraft|Builders:fillerBlock>, Filler
+<BuildCraft|Builders:frameBlock>, Frame
+<BuildCraft|Builders:libraryBlock>, Electronic Library
+<BuildCraft|Builders:machineBlock>, Quarry
+<BuildCraft|Builders:templateItem>, Template
+<BuildCraft|Core:buildToolBlock>, tile.buildToolBlock.name
+<BuildCraft|Core:debugger>, Debugger
+<BuildCraft|Core:diamondGearItem>, Diamond Gear
+<BuildCraft|Core:engineBlock>, Redstone Engine
+<BuildCraft|Core:eternalSpring>, Water Spring
+<BuildCraft|Core:goldGearItem>, Gold Gear
+<BuildCraft|Core:ironGearItem>, Iron Gear
+<BuildCraft|Core:list>, List
+<BuildCraft|Core:mapLocation>, Map Location
+<BuildCraft|Core:markerBlock>, Land Mark
+<BuildCraft|Core:paintbrush>, Paintbrush
+<BuildCraft|Core:pathMarkerBlock>, Path Mark
+<BuildCraft|Core:stoneGearItem>, Stone Gear
+<BuildCraft|Core:woodenGearItem>, Wood Gear
+<BuildCraft|Core:wrenchItem>, Wrench
+<BuildCraft|Energy:blockFuel>, Fuel
+<BuildCraft|Energy:blockOil>, Oil
+<BuildCraft|Energy:blockRedPlasma>, tile.blockRedPlasma.name
+<BuildCraft|Energy:bucketFuel>, Fuel Bucket
+<BuildCraft|Energy:bucketOil>, Oil Bucket
+<BuildCraft|Factory:autoWorkbenchBlock>, Auto Workbench
+<BuildCraft|Factory:blockHopper>, Chute
+<BuildCraft|Factory:floodGateBlock>, Flood Gate
+<BuildCraft|Factory:miningWellBlock>, Mining Well
+<BuildCraft|Factory:plainPipeBlock>, Mining Pipe
+<BuildCraft|Factory:pumpBlock>, Pump
+<BuildCraft|Factory:refineryBlock>, Refinery
+<BuildCraft|Factory:tankBlock>, Tank
+<BuildCraft|Robotics:redstone_board>, Redstone Board
+<BuildCraft|Robotics:requester>, Requester
+<BuildCraft|Robotics:robot>, Robot
+<BuildCraft|Robotics:robotStation>, Docking Station
+<BuildCraft|Robotics:zonePlan>, Zone Planner
+<BuildCraft|Silicon:laserBlock>, Laser
+<BuildCraft|Silicon:laserTableBlock>, Assembly Table
+<BuildCraft|Silicon:package>, Package
+<BuildCraft|Silicon:packagerBlock>, Recipe Packager
+<BuildCraft|Silicon:redstoneChipset>, Redstone Chipset
+<BuildCraft|Silicon:redstoneCrystal>, Redstone Crystal
+<BuildCraft|Transport:filteredBufferBlock>, Filtered Buffer
+<BuildCraft|Transport:gateCopier>, Gate Copier
+<BuildCraft|Transport:item.buildcraftPipe.pipefluidsclay>, Clay Fluid Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipefluidscobblestone>, Cobblestone Fluid Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipefluidsdiamond>, Diamond Fluid Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipefluidsemerald>, Emerald Fluid Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipefluidsgold>, Golden Fluid Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipefluidsiron>, Iron Fluid Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipefluidsquartz>, Quartz Fluid Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipefluidssandstone>, Sandstone Fluid Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipefluidsstone>, Stone Fluid Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipefluidsvoid>, Void Fluid Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipefluidswood>, Wooden Fluid Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipeitemsclay>, Clay Transport Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipeitemscobblestone>, Cobblestone Transport Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipeitemsdaizuli>, Daizuli Transport Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipeitemsdiamond>, Diamond Transport Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipeitemsemerald>, Emerald Transport Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipeitemsemzuli>, Emzuli Transport Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipeitemsgold>, Golden Transport Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipeitemsiron>, Iron Transport Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipeitemslapis>, Lazuli Transport Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipeitemsobsidian>, Obsidian Transport Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipeitemsquartz>, Quartz Transport Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipeitemssandstone>, Sandstone Transport Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipeitemsstone>, Stone Transport Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipeitemsstripes>, Stripes Transport Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipeitemsvoid>, Void Transport Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipeitemswood>, Wooden Transport Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipepowercobblestone>, Cobblestone Kinesis Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipepowerdiamond>, Diamond Kinesis Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipepoweremerald>, Emerald Kinesis Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipepowergold>, Golden Kinesis Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipepoweriron>, Iron Kinesis Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipepowerquartz>, Quartz Kinesis Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipepowersandstone>, Sandstone Kinesis Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipepowerstone>, Stone Kinesis Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipepowerwood>, Wooden Kinesis Pipe
+<BuildCraft|Transport:item.buildcraftPipe.pipestructurecobblestone>, Cobblestone Structure Pipe
+<BuildCraft|Transport:pipeBlock>, tile.pipeBlock.name
+<BuildCraft|Transport:pipeFacade>, Facade: CORRUPT
+<BuildCraft|Transport:pipeGate>, Basic Gate
+<BuildCraft|Transport:pipeLens>, Lens (Black)
+<BuildCraft|Transport:pipePlug>, Pipe Plug
+<BuildCraft|Transport:pipePowerAdapter>, Power Adapter
+<BuildCraft|Transport:pipeWaterproof>, Pipe Sealant
+<BuildCraft|Transport:pipeWire>, Red Pipe Wire
+<ComputerCraft:CC-Cable>, Networking Cable
+<ComputerCraft:CC-Computer>, Computer
+<ComputerCraft:CC-Peripheral>, Disk Drive
+<ComputerCraft:CC-Turtle>, Turtle
+<ComputerCraft:CC-TurtleAdvanced>, Advanced Turtle
+<ComputerCraft:CC-TurtleExpanded>, Turtle
+<ComputerCraft:command_computer>, Command Computer
+<ComputerCraft:disk>, Floppy Disk
+<ComputerCraft:diskExpanded>, Floppy Disk
+<ComputerCraft:pocketComputer>, Pocket Computer
+<ComputerCraft:printout>, Printed Page
+<ComputerCraft:treasureDisk>, Floppy Disk
+<FirePeripherals:tile.redstoneioblock_off>, Redstone I/O Block
+<FirePeripherals:tile.redstoneioblock_on>, Redstone I/O Block
+<IC2:blockAlloy>, Reinforced Stone
+<IC2:blockAlloyGlass>, Reinforced Glass
+<IC2:blockBarrel>, Barrel
+<IC2:blockBasalt>, Basalt
+<IC2:blockCable>, ic2.blockCable
+<IC2:blockChargepad>, Charge Pad (BatBox)
+<IC2:blockCrop>, Crop
+<IC2:blockDoorAlloy>, tile.blockDoorAlloy.name
+<IC2:blockDynamite>, ic2.blockDynamite
+<IC2:blockDynamiteRemote>, ic2.blockDynamiteRemote
+<IC2:blockElectric>, BatBox
+<IC2:blockFenceIron>, Iron Fence
+<IC2:blockFoam>, Construction Foam
+<IC2:blockGenerator>, Generator
+<IC2:blockHarz>, ic2.blockHarz
+<IC2:blockHeatGenerator>, Solid Heat Generator
+<IC2:blockITNT>, Industrial TNT
+<IC2:blockIronScaffold>, Iron Scaffold
+<IC2:blockKineticGenerator>, Kinetic Wind Generator
+<IC2:blockLuminator>, Luminator
+<IC2:blockLuminatorDark>, Luminator
+<IC2:blockMachine>, Basic Machine Casing
+<IC2:blockMachine2>, Teleporter
+<IC2:blockMachine3>, Steam Generator
+<IC2:blockMetal>, Copper Block
+<IC2:blockMiningPipe>, Mining Pipe
+<IC2:blockMiningTip>, Mining Pipe
+<IC2:blockNuke>, Nuke
+<IC2:blockOreCopper>, Copper Ore
+<IC2:blockOreLead>, Lead Ore
+<IC2:blockOreTin>, Tin Ore
+<IC2:blockOreUran>, Uranium Ore
+<IC2:blockPersonal>, Personal Safe
+<IC2:blockReactorAccessHatch>, Reactor Access Hatch
+<IC2:blockReactorChamber>, Reactor Chamber
+<IC2:blockReactorFluidPort>, Reactor Fluid Port
+<IC2:blockReactorRedstonePort>, Reactor Redstone Port
+<IC2:blockReinforcedFoam>, Reinforced Construction Foam
+<IC2:blockRubLeaves>, Rubber Tree Leaves
+<IC2:blockRubSapling>, Rubber Tree Sapling
+<IC2:blockRubWood>, Rubber Wood
+<IC2:blockRubber>, Rubber Sheet
+<IC2:blockScaffold>, Scaffold
+<IC2:blockWall>, ic2.blockWall
+<IC2:blockreactorvessel>, Reactor Pressure Vessel
+<IC2:fluidBiogas>, Biogas
+<IC2:fluidBiomass>, Biomass
+<IC2:fluidConstructionFoam>, Construction Foam
+<IC2:fluidCoolant>, IC2 Coolant
+<IC2:fluidDistilledWater>, Distilled Water
+<IC2:fluidHotCoolant>, IC2 Hot Coolant
+<IC2:fluidHotWater>, Hotspring Water
+<IC2:fluidPahoehoeLava>, Pahoehoe Lava
+<IC2:fluidSteam>, Steam
+<IC2:fluidSuperheatedSteam>, Superheated Steam
+<IC2:fluidUuMatter>, UU-Matter
+<IC2:itemAdvBat>, Advanced RE-Battery
+<IC2:itemAdvIronBlockCuttingBlade>, Block Cutting Blade (Refined Iron)
+<IC2:itemArmorAdvBatpack>, Adv.Batpack
+<IC2:itemArmorAlloyChestplate>, Composite Vest
+<IC2:itemArmorBatpack>, BatPack
+<IC2:itemArmorBronzeBoots>, Bronze Boots
+<IC2:itemArmorBronzeChestplate>, Bronze Chestplate
+<IC2:itemArmorBronzeHelmet>, Bronze Helmet
+<IC2:itemArmorBronzeLegs>, Bronze Leggings
+<IC2:itemArmorCFPack>, CF Backpack
+<IC2:itemArmorEnergypack>, Energypack
+<IC2:itemArmorHazmatChestplate>, Hazmat Suit
+<IC2:itemArmorHazmatHelmet>, Scuba Helmet
+<IC2:itemArmorHazmatLeggings>, Hazmat Suit Leggings
+<IC2:itemArmorJetpack>, Jetpack
+<IC2:itemArmorJetpackElectric>, Electric Jetpack
+<IC2:itemArmorNanoBoots>, NanoSuit Boots
+<IC2:itemArmorNanoChestplate>, NanoSuit Bodyarmor
+<IC2:itemArmorNanoHelmet>, NanoSuit Helmet
+<IC2:itemArmorNanoLegs>, NanoSuit Leggings
+<IC2:itemArmorQuantumBoots>, QuantumSuit Boots
+<IC2:itemArmorQuantumChestplate>, QuantumSuit Bodyarmor
+<IC2:itemArmorQuantumHelmet>, QuantumSuit Helmet
+<IC2:itemArmorQuantumLegs>, QuantumSuit Leggings
+<IC2:itemArmorRubBoots>, Rubber Boots
+<IC2:itemBarrel>, Empty Booze Barrel
+<IC2:itemBatChargeAdv>, Advanced Charging Battery
+<IC2:itemBatChargeCrystal>, Charging Energy Crystal
+<IC2:itemBatChargeLamaCrystal>, Charging Lapotron Crystal
+<IC2:itemBatChargeRE>, Charging RE Battery
+<IC2:itemBatCrystal>, Energy Crystal
+<IC2:itemBatLamaCrystal>, Lapotron Crystal
+<IC2:itemBatRE>, RE-Battery
+<IC2:itemBatREDischarged>, RE-Battery
+<IC2:itemBatSU>, Single-Use Battery
+<IC2:itemBiochaff>, Bio Chaff
+<IC2:itemBoat>, Carbon Fiber Canoe
+<IC2:itemCable>, Insulated Copper Cable
+<IC2:itemCasing>, Copper Item Casing
+<IC2:itemCellEmpty>, Empty Cell
+<IC2:itemCellHydrant>, Hydration Cell
+<IC2:itemCofeeBeans>, Coffee Beans
+<IC2:itemCofeePowder>, Coffee Powder
+<IC2:itemCoin>, Industrial Credit
+<IC2:itemContainmentbox>, Containment Box
+<IC2:itemCropSeed>, Invalid Seeds
+<IC2:itemCropnalyzer>, Cropnalyzer
+<IC2:itemCrushedOre>, Crushed Iron Ore
+<IC2:itemDebug>, Debug Item
+<IC2:itemDensePlates>, Dense Copper Plate
+<IC2:itemDiamondBlockCuttingBlade>, Block Cutting Blade (Diamond)
+<IC2:itemDoorAlloy>, Reinforced Door
+<IC2:itemDust>, Bronze Dust
+<IC2:itemDust2>, Silicon dioxide
+<IC2:itemDustSmall>, Tiny Pile of Iron Dust
+<IC2:itemDynamite>, Dynamite
+<IC2:itemDynamiteSticky>, Sticky Dynamite
+<IC2:itemFertilizer>, Fertilizer
+<IC2:itemFluidCell>, Universal Fluid Cell
+<IC2:itemFoamSprayer>, CF Sprayer
+<IC2:itemFreq>, Frequency Transmitter
+<IC2:itemFuelPlantBall>, Plantball
+<IC2:itemFuelRod>, Fuel Rod (Empty)
+<IC2:itemGrinPowder>, Grin Powder
+<IC2:itemHarz>, Sticky Resin
+<IC2:itemHops>, Hops
+<IC2:itemIngot>, Copper Ingot
+<IC2:itemIronBlockCuttingBlade>, Block Cutting Blade (Iron)
+<IC2:itemLathingTool>, Lathing Tool
+<IC2:itemMOX>, MOX Nuclear Fuel
+<IC2:itemMugBooze>, Zero
+<IC2:itemMugCoffee>, Cold Coffee
+<IC2:itemMugEmpty>, Stone Mug
+<IC2:itemNanoSaber>, Nano Saber
+<IC2:itemNightvisionGoggles>, Nightvision Goggles
+<IC2:itemOreIridium>, Iridium Ore
+<IC2:itemPartAlloy>, Advanced Alloy
+<IC2:itemPartCFPowder>, CF Powder
+<IC2:itemPartCarbonFibre>, Raw Carbon Fibre
+<IC2:itemPartCarbonMesh>, Raw Carbon Mesh
+<IC2:itemPartCarbonPlate>, Carbon Plate
+<IC2:itemPartCircuit>, Electronic Circuit
+<IC2:itemPartCircuitAdv>, Advanced Circuit
+<IC2:itemPartCoalBall>, Coal Ball
+<IC2:itemPartCoalBlock>, Compressed Coal Ball
+<IC2:itemPartCoalChunk>, Coal Chunk
+<IC2:itemPartIndustrialDiamond>, Industrial Diamond
+<IC2:itemPartIridium>, Iridium Reinforced Plate
+<IC2:itemPlates>, Copper Plate
+<IC2:itemPlutonium>, Plutonium
+<IC2:itemPlutoniumSmall>, Tiny Pile of Plutonium
+<IC2:itemPurifiedCrushedOre>, Purified Crushed Iron Ore
+<IC2:itemRTGPellet>, Pellets of RTG Fuel
+<IC2:itemRecipePart>, Coil
+<IC2:itemRemote>, Dynamite-O-Mote
+<IC2:itemRubber>, Rubber
+<IC2:itemScanner>, OD Scanner
+<IC2:itemScannerAdv>, OV Scanner
+<IC2:itemScrap>, Scrap
+<IC2:itemScrapbox>, Scrap Box
+<IC2:itemShardIridium>, Iridium Shard
+<IC2:itemSlag>, Slag
+<IC2:itemSolarHelmet>, Solar Helmet
+<IC2:itemStaticBoots>, Static Boots
+<IC2:itemSteamTurbine>, Steam Turbine
+<IC2:itemSteamTurbineBlade>, Steam Turbine Blade
+<IC2:itemTFBP>, TFBP - Empty
+<IC2:itemTFBPChilling>, TFBP - Chilling
+<IC2:itemTFBPCultivation>, TFBP - Cultivation
+<IC2:itemTFBPDesertification>, TFBP - Desertification
+<IC2:itemTFBPFlatification>, TFBP - Flatification
+<IC2:itemTFBPIrrigation>, TFBP - Irrigation
+<IC2:itemTFBPMushroom>, TFBP - Mushroom
+<IC2:itemTerraWart>, Terra Wart
+<IC2:itemTinCan>, Tin Can
+<IC2:itemTinCanFilled>, (Filled) Tin Can
+<IC2:itemToolBronzeAxe>, Bronze Axe
+<IC2:itemToolBronzeHoe>, Bronze Hoe
+<IC2:itemToolBronzePickaxe>, Bronze Pickaxe
+<IC2:itemToolBronzeSpade>, Bronze Shovel
+<IC2:itemToolBronzeSword>, Bronze Sword
+<IC2:itemToolChainsaw>, Chainsaw
+<IC2:itemToolCutter>, Cutter
+<IC2:itemToolDDrill>, Diamond Drill
+<IC2:itemToolDrill>, Mining Drill
+<IC2:itemToolForgeHammer>, Forge Hammer
+<IC2:itemToolHoe>, Electric Hoe
+<IC2:itemToolIridiumDrill>, Iridium Drill
+<IC2:itemToolMEter>, EU-Reader
+<IC2:itemToolMiningLaser>, Mining Laser
+<IC2:itemToolPainter>, Painter
+<IC2:itemToolPainterBlack>, Black Painter
+<IC2:itemToolPainterBlue>, Blue Painter
+<IC2:itemToolPainterBrown>, Brown Painter
+<IC2:itemToolPainterCloud>, Light Blue Painter
+<IC2:itemToolPainterCyan>, Cyan Painter
+<IC2:itemToolPainterDarkGrey>, Dark Grey Painter
+<IC2:itemToolPainterGreen>, Green Painter
+<IC2:itemToolPainterLightGrey>, Light Grey Painter
+<IC2:itemToolPainterLime>, Lime Painter
+<IC2:itemToolPainterMagenta>, Magenta Painter
+<IC2:itemToolPainterOrange>, Orange Painter
+<IC2:itemToolPainterPink>, Pink Painter
+<IC2:itemToolPainterPurple>, Purple Painter
+<IC2:itemToolPainterRed>, Red Painter
+<IC2:itemToolPainterWhite>, White Painter
+<IC2:itemToolPainterYellow>, Yellow Painter
+<IC2:itemToolWrench>, Wrench
+<IC2:itemToolWrenchElectric>, Electric Wrench
+<IC2:itemToolbox>, Tool Box
+<IC2:itemTreetap>, Treetap
+<IC2:itemTreetapElectric>, Electric Treetap
+<IC2:itemTritiumCell>, Fuel Rod (Tritium)
+<IC2:itemTurningBlanks>, Iron Turning Blank
+<IC2:itemTurningBlanksWood>, Wooden Turning Blank
+<IC2:itemUran>, Enriched Uranium Nuclear Fuel
+<IC2:itemUran235>, Uranium 235
+<IC2:itemUran235small>, Tiny Pile of Uranium 235
+<IC2:itemUran238>, Uranium 238
+<IC2:itemWeed>, Weed
+<IC2:itemWeedEx>, Weed-EX
+<IC2:itemWeedingTrowel>, Weeding Trowel
+<IC2:itemcrystalmemory>, Crystal Memory
+<IC2:itemironrotor>, Kinetic Gearbox Rotor (Iron)
+<IC2:itemsteelrotor>, Kinetic Gearbox Rotor (Steel)
+<IC2:itemupgradekit>, MFSU Upgrade Kit
+<IC2:itemwcarbonrotor>, Kinetic Gearbox Rotor (Carbon)
+<IC2:itemwoodrotor>, Kinetic Gearbox Rotor (Wood)
+<IC2:obscurator>, Obscurator
+<IC2:plasmaLauncher>, ic2.plasmaLauncher
+<IC2:reactorCondensator>, RSH-Condensator
+<IC2:reactorCondensatorLap>, LZH-Condensator
+<IC2:reactorCoolantSimple>, 10k Coolant Cell
+<IC2:reactorCoolantSix>, 60k Coolant Cell
+<IC2:reactorCoolantTriple>, 30k Coolant Cell
+<IC2:reactorHeatSwitch>, Heat Exchanger
+<IC2:reactorHeatSwitchCore>, Reactor Heat Exchanger
+<IC2:reactorHeatSwitchDiamond>, Advanced Heat Exchanger
+<IC2:reactorHeatSwitchSpread>, Component Heat Exchanger
+<IC2:reactorLithiumCell>, Fuel Rod (Lithium)
+<IC2:reactorMOXDual>, Dual Fuel Rod (MOX)
+<IC2:reactorMOXDualdepleted>, Dual Fuel Rod (Depleted MOX)
+<IC2:reactorMOXQuad>, Quad Fuel Rod (MOX)
+<IC2:reactorMOXQuaddepleted>, Quad Fuel Rod (Depleted MOX)
+<IC2:reactorMOXSimple>, Fuel Rod (MOX)
+<IC2:reactorMOXSimpledepleted>, Fuel Rod (Depleted MOX)
+<IC2:reactorPlating>, Reactor Plating
+<IC2:reactorPlatingExplosive>, Containment Reactor Plating
+<IC2:reactorPlatingHeat>, Heat-Capacity Reactor Plating
+<IC2:reactorReflector>, Neutron Reflector
+<IC2:reactorReflectorThick>, Thick Neutron Reflector
+<IC2:reactorUraniumDual>, Dual Fuel Rod (Uranium)
+<IC2:reactorUraniumDualdepleted>, Dual Fuel Rod (Depleted Uranium)
+<IC2:reactorUraniumQuad>, Quad Fuel Rod (Uranium)
+<IC2:reactorUraniumQuaddepleted>, Quad Fuel Rod (Depleted Uranium)
+<IC2:reactorUraniumSimple>, Fuel Rod (Uranium)
+<IC2:reactorUraniumSimpledepleted>, Fuel Rod (Depleted Uranium)
+<IC2:reactorVent>, Heat Vent
+<IC2:reactorVentCore>, Reactor Heat Vent
+<IC2:reactorVentDiamond>, Advanced Heat Vent
+<IC2:reactorVentGold>, Overclocked Heat Vent
+<IC2:reactorVentSpread>, Component Heat Vent
+<IC2:upgradeModule>, Overclocker Upgrade
+<IC2:windmeter>, Windmeter
+<IC2NuclearControl:CardAppeng>, Applied Energistics Card
+<IC2NuclearControl:Item55ReactorCard>, 5x5 Reactor Sensor Location Card
+<IC2NuclearControl:ItemEnergyArrayLocationCard>, Energy Array Location Card
+<IC2NuclearControl:ItemEnergySensorKit>, Energy Sensor Kit
+<IC2NuclearControl:ItemEnergySensorLocationCard>, Energy Sensor Location Card
+<IC2NuclearControl:ItemInventoryScannerCard>, Inventory Tracking Card
+<IC2NuclearControl:ItemLiquidArrayLocationCard>, Liquid Array Location Card
+<IC2NuclearControl:ItemMultipleSensorKit>, Counter Sensor Kit
+<IC2NuclearControl:ItemMultipleSensorLocationCard>, Counter Sensor Location Card
+<IC2NuclearControl:ItemRemoteSensorKit>, Remote Sensor Kit
+<IC2NuclearControl:ItemSensorLocationCard>, Reactor Sensor Location Card
+<IC2NuclearControl:ItemTextCard>, Text Card
+<IC2NuclearControl:ItemTimeCard>, Time Card
+<IC2NuclearControl:ItemToolDigitalThermometer>, Digital Thermometer
+<IC2NuclearControl:ItemToolThermometer>, Thermometer
+<IC2NuclearControl:ItemUpgrade>, Range Upgrade
+<IC2NuclearControl:ItemVanillaMachineCard>, Vanilla Machine Card
+<IC2NuclearControl:ItemVanilliaKit>, Vanilla Kit
+<IC2NuclearControl:KitAppeng>, Applied Energistics Monitor Kit
+<IC2NuclearControl:blockNuclearControlLight>, White Lamp
+<IC2NuclearControl:blockNuclearControlMain>, Thermal Monitor
+<IC2NuclearControl:networkLink>, ME Network Monitor
+<IC2NuclearControl:remoteMonitor>, Portable Information Panel
+<ImmibisPeripherals:component>, Microprocessor Core
+<ImmibisPeripherals:magncard>, Mag-stripe card
+<ImmibisPeripherals:peripherals>, RFID Writer
+<ImmibisPeripherals:rfidcard>, RFID card
+<MoCreatures:MoCDirt>, WyvernLair Dirt
+<MoCreatures:MoCGrass>, WyvernLair Grass
+<MoCreatures:MoCLeaves>, WyvernLair Leaves
+<MoCreatures:MoCLog>, WyvernLair Log
+<MoCreatures:MoCStone>, WyvernLair Stone
+<MoCreatures:MoCTallGrass>, WyvernLair Tall Grass
+<MoCreatures:MoCWoodPlank>, WyvernLair Wood Plank
+<MoCreatures:amuletbone>, Bone Amulet
+<MoCreatures:amuletbonefull>, Bone Amulet
+<MoCreatures:amuletfairy>, Fairy Amulet
+<MoCreatures:amuletfairyfull>, Fairy Amulet
+<MoCreatures:amuletghost>, Ghost Amulet
+<MoCreatures:amuletghostfull>, Ghost Amulet
+<MoCreatures:amuletpegasus>, Sky Amulet
+<MoCreatures:amuletpegasusfull>, Sky Amulet
+<MoCreatures:bigcatclaw>, BigCat Claw
+<MoCreatures:bo>, Bo
+<MoCreatures:bowlempty>, Empty FishBowl
+<MoCreatures:bowlfish1>, FishBowl
+<MoCreatures:bowlfish10>, FishBowl
+<MoCreatures:bowlfish2>, FishBowl
+<MoCreatures:bowlfish3>, FishBowl
+<MoCreatures:bowlfish4>, FishBowl
+<MoCreatures:bowlfish5>, FishBowl
+<MoCreatures:bowlfish6>, FishBowl
+<MoCreatures:bowlfish7>, FishBowl
+<MoCreatures:bowlfish8>, FishBowl
+<MoCreatures:bowlfish9>, FishBowl
+<MoCreatures:bowlwater>, Full FishBowl
+<MoCreatures:builderhammer>, Builder Hammer
+<MoCreatures:chitin>, Chitin
+<MoCreatures:chitinblack>, Chitin Black
+<MoCreatures:chitinfrost>, Chitin Frost
+<MoCreatures:chitinnether>, Chitin Nether
+<MoCreatures:crabcooked>, Cooked Crab
+<MoCreatures:crabraw>, Raw Crab
+<MoCreatures:elephantchest>, Elephant Chest
+<MoCreatures:elephantgarment>, Elephant Garment
+<MoCreatures:elephantharness>, Elephant Harness
+<MoCreatures:elephanthowdah>, Elephant Howdah
+<MoCreatures:essencedarkness>, Essence of Darkness
+<MoCreatures:essencefire>, Essence of Fire
+<MoCreatures:essencelight>, Essence of Light
+<MoCreatures:essenceundead>, Essence of Undead
+<MoCreatures:fishnet>, Fish Net
+<MoCreatures:fur>, Fur
+<MoCreatures:furboots>, Fur Boots
+<MoCreatures:furchest>, Fur Chest
+<MoCreatures:furhelmet>, Fur Helmet
+<MoCreatures:furlegs>, Fur Legs
+<MoCreatures:haystack>, Hay Stack
+<MoCreatures:heartdarkness>, Heart of Darkness
+<MoCreatures:heartfire>, Heart of Fire
+<MoCreatures:heartundead>, Heart of Undead
+<MoCreatures:hide>, Hide
+<MoCreatures:hideboots>, Hide Boots
+<MoCreatures:hidechest>, Hide Chest
+<MoCreatures:hidehelmet>, Hide Helmet
+<MoCreatures:hidelegs>, Hide Legs
+<MoCreatures:horsearmorcrystal>, Crystal Mount Armor
+<MoCreatures:horsesaddle>, Crafted Saddle
+<MoCreatures:katana>, Katana
+<MoCreatures:key>, Key
+<MoCreatures:kittybed>, Kitty Bed
+<MoCreatures:kittylitter>, Litter Box
+<MoCreatures:mammothplatform>, Mammoth Platform
+<MoCreatures:medallion>, Medallion
+<MoCreatures:mocegg>, Blue Fish Egg
+<MoCreatures:nunchaku>, Nunchaku
+<MoCreatures:omelet>, Omelet
+<MoCreatures:ostrichcooked>, Cooked Ostrich
+<MoCreatures:ostrichraw>, Raw Ostrich
+<MoCreatures:petamulet>, Pet Amulet
+<MoCreatures:petfood>, Pet Food
+<MoCreatures:ratburger>, Rat Burger
+<MoCreatures:ratcooked>, Cooked Rat
+<MoCreatures:ratraw>, Raw Rat
+<MoCreatures:recordshuffle>, Zebra Record
+<MoCreatures:reptileboots>, Reptile Boots
+<MoCreatures:reptilehelmet>, Reptile Helmet
+<MoCreatures:reptilehide>, Reptile Hide
+<MoCreatures:reptilelegs>, Reptile Legs
+<MoCreatures:reptileplate>, Reptile Plate
+<MoCreatures:sai>, Sai
+<MoCreatures:scorpbootscave>, Cave Scorpion Boots
+<MoCreatures:scorpbootsdirt>, Dirt Scorpion Boots
+<MoCreatures:scorpbootsfrost>, Frost Scorpion Boots
+<MoCreatures:scorpbootsnether>, Nether Scorpion Boots
+<MoCreatures:scorphelmetcave>, Cave Scorpion Helmet
+<MoCreatures:scorphelmetdirt>, Dirt Scorpion Helmet
+<MoCreatures:scorphelmetfrost>, Frost Scorpion Helmet
+<MoCreatures:scorphelmetnether>, Nether Scorpion Helmet
+<MoCreatures:scorplegscave>, Cave Scorpion Legs
+<MoCreatures:scorplegsdirt>, Dirt Scorpion Legs
+<MoCreatures:scorplegsfrost>, Frost Scorpion Legs
+<MoCreatures:scorplegsnether>, Nether Scorpion Legs
+<MoCreatures:scorpplatecave>, Cave Scorpion Plate Chest
+<MoCreatures:scorpplatedirt>, Dirt Scorpion Plate Chest
+<MoCreatures:scorpplatefrost>, Frost Scorpion Plate Chest
+<MoCreatures:scorpplatenether>, Nether Scorpion Plate Chest
+<MoCreatures:scorpstingcave>, Cave Scorpion Sting
+<MoCreatures:scorpstingdirt>, Dirt Scorpion Sting
+<MoCreatures:scorpstingfrost>, Frost Scorpion Sting
+<MoCreatures:scorpstingnether>, Nether Scorpion Sting
+<MoCreatures:scorpswordcave>, Cave Scorpion Sword
+<MoCreatures:scorpsworddirt>, Dirt Scorpion Sword
+<MoCreatures:scorpswordfrost>, Frost Scorpion Sword
+<MoCreatures:scorpswordnether>, Nether Scorpion Sword
+<MoCreatures:scrolloffreedom>, Scroll of Freedom
+<MoCreatures:scrollofowner>, Scroll of Reset Owner
+<MoCreatures:scrollofsale>, Scroll of Sale
+<MoCreatures:sharksword>, Shark Sword
+<MoCreatures:sharkteeth>, Shark Teeth
+<MoCreatures:silversword>, Silver Sword
+<MoCreatures:staffportal>, Wyvern Portal Staff
+<MoCreatures:staffteleport>, Staff Teleport
+<MoCreatures:sugarlump>, Sugar Lump
+<MoCreatures:turkeycooked>, Cooked Turkey
+<MoCreatures:turkeyraw>, Raw Turkey
+<MoCreatures:turtleraw>, Raw Turtle
+<MoCreatures:turtlesoup>, Turtle Soup
+<MoCreatures:tusksdiamond>, Diamond Tusks
+<MoCreatures:tusksiron>, Iron Tusks
+<MoCreatures:tuskswood>, Wood Tusks
+<MoCreatures:unicornhorn>, Unicorn Horn
+<MoCreatures:whip>, Whip
+<MoCreatures:woolball>, Wool Ball
+<Mystcraft:BlockBookBinder>, Book Binder
+<Mystcraft:BlockBookReceptacle>, Book Receptacle
+<Mystcraft:BlockBookstand>, Bookstand
+<Mystcraft:BlockCrystal>, Crystal
+<Mystcraft:BlockDecay>, Black Decay
+<Mystcraft:BlockFluidMyst>, Black Ink
+<Mystcraft:BlockInkMixer>, Ink Mixer
+<Mystcraft:BlockLectern>, Lectern
+<Mystcraft:BlockLinkModifier>, Link Modifier
+<Mystcraft:BlockStarFissure>, Star Fissure
+<Mystcraft:LinkPortal>, Link Portal
+<Mystcraft:WritingDesk>, Writing Desk
+<Mystcraft:agebook>, Descriptive Book
+<Mystcraft:booster>, Sealed Notebook
+<Mystcraft:folder>, Collation Folder
+<Mystcraft:glasses>, XComp's Glasses
+<Mystcraft:linkbook>, Linking Book
+<Mystcraft:page>, Blank Page
+<Mystcraft:portfolio>, Symbol Portfolio
+<Mystcraft:unlinkedbook>, Unlinked Link Book
+<Mystcraft:vial>, Ink Vial
+<Mystcraft:writingdesk>, Writing Desk
+<OCS:basicProximitySensor>, Proximity Sensor
+<OCS:gauge>, Gauge
+<OCS:genericItem>, .name
+<OCS:sensor>, Sensor
+<OCS:sensorCard>, Proximity Sensor Card
+<PowerConverters3:debugItem>, Power Converters Debug Probe
+<PowerConverters3:powerconverters.common>, Energy Bridge
+<PowerConverters3:powerconverters.conduit>, tile.powerconverters.conduit.name
+<PowerConverters3:powerconverters.ic2>, IC2 LV Consumer
+<PowerConverters3:powerconverters.rf>, RF Consumer
+<PowerConverters3:powerconverters.steam>, Steam Consumer
+<Railcraft:anvil>, Steel Anvil
+<Railcraft:armor.goggles>, Trackman's Goggles
+<Railcraft:armor.overalls>, Engineer's Overalls
+<Railcraft:armor.steel.boots>, Steel Boots
+<Railcraft:armor.steel.helmet>, Steel Helmet
+<Railcraft:armor.steel.legs>, Steel Leggings
+<Railcraft:armor.steel.plate>, Steel Chestplate
+<Railcraft:borehead.diamond>, Diamond Bore Head
+<Railcraft:borehead.iron>, Iron Bore Head
+<Railcraft:borehead.steel>, Steel Bore Head
+<Railcraft:brick.abyssal>, Abyssal Brick
+<Railcraft:brick.bleachedbone>, Bleached Bone Brick
+<Railcraft:brick.bloodstained>, Blood Stained Brick
+<Railcraft:brick.frostbound>, Frost Bound Brick
+<Railcraft:brick.infernal>, Infernal Brick
+<Railcraft:brick.nether>, tile.railcraft.brick.nether.brick.name
+<Railcraft:brick.quarried>, Quarried Brick
+<Railcraft:brick.sandy>, Sandy Brick
+<Railcraft:cart.anchor>, Anchor Cart
+<Railcraft:cart.anchor.admin>, Admin Anchor Cart
+<Railcraft:cart.anchor.personal>, Personal Anchor Cart
+<Railcraft:cart.bore>, Tunnel Bore
+<Railcraft:cart.cargo>, Cargo Cart
+<Railcraft:cart.energy.batbox>, Batbox Cart
+<Railcraft:cart.energy.cesu>, CESU Cart
+<Railcraft:cart.energy.mfe>, MFE Cart
+<Railcraft:cart.gift>, Gift Cart
+<Railcraft:cart.loco.creative>, Perpetuum Locomotive
+<Railcraft:cart.loco.electric>, Electric Locomotive
+<Railcraft:cart.loco.steam.solid>, Steam Locomotive
+<Railcraft:cart.redstone.flux>, Redstone Flux Cart
+<Railcraft:cart.tank>, Tank Cart
+<Railcraft:cart.tnt.wood>, Wooden TNT Cart
+<Railcraft:cart.track.layer>, Track Layer Cart
+<Railcraft:cart.track.relayer>, Track Relayer Cart
+<Railcraft:cart.track.remover>, Track Remover Cart
+<Railcraft:cart.undercutter>, Undercutter Cart
+<Railcraft:cart.work>, Work Cart
+<Railcraft:cube>, Block of Coal Coke
+<Railcraft:detector>, Detector - Item
+<Railcraft:dust>, Obsidian Dust
+<Railcraft:emblem>, Emblem
+<Railcraft:firestone.cracked>, Cracked Firestone
+<Railcraft:firestone.cut>, Cut Firestone
+<Railcraft:firestone.raw>, Raw Firestone
+<Railcraft:firestone.recharge>, Recharging Firestone
+<Railcraft:firestone.refined>, Refined Firestone
+<Railcraft:fluid.creosote>, Creosote
+<Railcraft:fluid.creosote.bottle>, Creosote Bottle
+<Railcraft:fluid.creosote.bucket>, Creosote Bucket
+<Railcraft:fluid.creosote.can>, Creosote Can
+<Railcraft:fluid.creosote.cell>, Creosote Cell
+<Railcraft:fluid.creosote.refactory>, Creosote Capsule
+<Railcraft:fluid.creosote.wax>, Creosote Capsule
+<Railcraft:fluid.steam>, Steam
+<Railcraft:fluid.steam.bottle>, Steam Bottle
+<Railcraft:frame>, Wire Support Frame
+<Railcraft:fuel.coke>, Coal Coke
+<Railcraft:glass>, Strengthened Glass
+<Railcraft:ingot>, Steel Ingot
+<Railcraft:lantern.metal>, Iron Lantern
+<Railcraft:lantern.stone>, Abyssal Stone Lantern
+<Railcraft:machine.alpha>, World Anchor
+<Railcraft:machine.beta>, Iron Tank Wall
+<Railcraft:machine.delta>, Electric Shunting Wire
+<Railcraft:machine.epsilon>, Electric Feeder Unit
+<Railcraft:machine.gamma>, Item Loader
+<Railcraft:nugget>, Iron Nugget
+<Railcraft:ore>, Sulfur Ore
+<Railcraft:part.bleached.clay>, Bleached Clay
+<Railcraft:part.circuit>, Controller Circuit
+<Railcraft:part.gear>, Gold-Plate Gear
+<Railcraft:part.plate>, Iron Plate
+<Railcraft:part.rail>, Standard Rail
+<Railcraft:part.railbed>, Wooden Railbed
+<Railcraft:part.rebar>, Rebar
+<Railcraft:part.signal.lamp>, Signal Lamp
+<Railcraft:part.tie>, Wooden Tie
+<Railcraft:part.turbine.blade>, Turbine Blade
+<Railcraft:part.turbine.disk>, Turbine Disk
+<Railcraft:part.turbine.rotor>, Turbine Rotor
+<Railcraft:post>, Wooden Post
+<Railcraft:post.metal>, Black Metal Post
+<Railcraft:post.metal.platform>, Black Metal Platform
+<Railcraft:residual.heat>, Residual Heat
+<Railcraft:routing.table>, Routing Table
+<Railcraft:routing.ticket>, Railway Ticket
+<Railcraft:routing.ticket.gold>, Golden Railway Ticket
+<Railcraft:signal>, Signal Interlock Box
+<Railcraft:slab>, Sandy Brick Slab
+<Railcraft:stair>, Sandy Brick Stairs
+<Railcraft:tool.crowbar>, Crowbar
+<Railcraft:tool.crowbar.magic>, Thaumium Crowbar
+<Railcraft:tool.crowbar.reinforced>, Reinforced Crowbar
+<Railcraft:tool.crowbar.void>, Void metal Crowbar
+<Railcraft:tool.electric.meter>, Electric Meter
+<Railcraft:tool.magnifying.glass>, Magnifying Glass
+<Railcraft:tool.signal.label>, Signal Label
+<Railcraft:tool.signal.tuner>, Signal Tuner
+<Railcraft:tool.steel.axe>, Steel Axe
+<Railcraft:tool.steel.hoe>, Steel Hoe
+<Railcraft:tool.steel.pickaxe>, Steel Pickaxe
+<Railcraft:tool.steel.shears>, Steel Shears
+<Railcraft:tool.steel.shovel>, Steel Shovel
+<Railcraft:tool.steel.sword>, Steel Sword
+<Railcraft:tool.surveyor>, Signal Block Surveyor
+<Railcraft:tool.whistle.tuner>, Whistle Tuner
+<Railcraft:track>, tile.railcraft.default.name
+<Railcraft:track.elevator>, Elevator Track
+<Railcraft:upgrade.lapotron>, Lapotron Loader Upgrade.name
+<Railcraft:wall.alpha>, Infernal Brick Wall
+<Railcraft:wall.beta>, Quartz Wall
+<Railcraft:worldlogic>, Saltpeter Ore Spawner
+<RedstonePasteMod:redstonePaste>, Redstone Paste
+<RedstonePasteMod:stickyComparator>, Sticky Comparator
+<RedstonePasteMod:stickyRepeater>, Sticky Repeater
+<Thaumcraft:ArcaneDoorKey>, Iron Arcane Key
+<Thaumcraft:BlockJarFilledItem>, Jar of Essentia
+<Thaumcraft:BlockJarNodeItem>, Node in a Jar
+<Thaumcraft:BootsTraveller>, Boots of the Traveler
+<Thaumcraft:FocusExcavation>, Wand Focus: Excavation
+<Thaumcraft:FocusFire>, Wand Focus: Fire
+<Thaumcraft:FocusFrost>, Wand Focus: Frost
+<Thaumcraft:FocusHellbat>, Wand Focus: Nine Hells
+<Thaumcraft:FocusPech>, Wand Focus: Pech's Curse
+<Thaumcraft:FocusPortableHole>, Wand Focus: Portable Hole
+<Thaumcraft:FocusPouch>, Focus Pouch
+<Thaumcraft:FocusPrimal>, Wand Focus: Primal
+<Thaumcraft:FocusShock>, Wand Focus: Shock
+<Thaumcraft:FocusTrade>, Wand Focus: Equal Trade
+<Thaumcraft:FocusWarding>, Wand Focus: Warding
+<Thaumcraft:GolemBell>, Golemancer's Bell
+<Thaumcraft:HandMirror>, Magic Hand Mirror
+<Thaumcraft:HoverHarness>, Thaumostatic Harness
+<Thaumcraft:ItemAmuletRunic>, Amulet of Runic Shielding
+<Thaumcraft:ItemAmuletVis>, Vis Stone
+<Thaumcraft:ItemArcaneDoor>, Arcane Door
+<Thaumcraft:ItemAxeElemental>, Axe of the Stream
+<Thaumcraft:ItemAxeThaumium>, Thaumium Axe
+<Thaumcraft:ItemAxeVoid>, Void Axe
+<Thaumcraft:ItemBathSalts>, Purifying Bath Salts
+<Thaumcraft:ItemBaubleBlanks>, Mundane Amulet
+<Thaumcraft:ItemBootsCultist>, Crimson Cult Boots
+<Thaumcraft:ItemBootsRobe>, Thaumaturge's Boots
+<Thaumcraft:ItemBootsThaumium>, Thaumium Boots
+<Thaumcraft:ItemBootsVoid>, Void Boots
+<Thaumcraft:ItemBottleTaint>, Bottled Taint
+<Thaumcraft:ItemBowBone>, Bow of Bone
+<Thaumcraft:ItemBucketDeath>, Bucket of Liquid Death
+<Thaumcraft:ItemBucketPure>, Bucket of Purifying Fluid
+<Thaumcraft:ItemChestplateCultistLeaderPlate>, Crimson Praetor Chestplate
+<Thaumcraft:ItemChestplateCultistPlate>, Crimson Cult Chestplate
+<Thaumcraft:ItemChestplateCultistRobe>, Crimson Cult Robe
+<Thaumcraft:ItemChestplateFortress>, Thaumium Fortress Cuirass
+<Thaumcraft:ItemChestplateRobe>, Thaumaturge's Robe
+<Thaumcraft:ItemChestplateThaumium>, Thaumium Chestplate
+<Thaumcraft:ItemChestplateVoid>, Void Chestplate
+<Thaumcraft:ItemChestplateVoidFortress>, Void Thaumaturge Robe
+<Thaumcraft:ItemCompassStone>, Sinister Lodestone
+<Thaumcraft:ItemCrystalEssence>, Crystallized Essence
+<Thaumcraft:ItemEldritchObject>, Eldritch Eye
+<Thaumcraft:ItemEssence>, Glass Phial
+<Thaumcraft:ItemGirdleHover>, Thaumostatic Girdle
+<Thaumcraft:ItemGirdleRunic>, Girdle of Runic Shielding
+<Thaumcraft:ItemGoggles>, Goggles of Revealing
+<Thaumcraft:ItemGolemCore>, Golem Animation Core
+<Thaumcraft:ItemGolemDecoration>, Accessory: Top Hat
+<Thaumcraft:ItemGolemPlacer>, Straw Golem
+<Thaumcraft:ItemGolemUpgrade>, Golem Upgrade: Air
+<Thaumcraft:ItemHelmetCultistLeaderPlate>, Crimson Praetor Helm
+<Thaumcraft:ItemHelmetCultistPlate>, Crimson Cult Helm
+<Thaumcraft:ItemHelmetCultistRobe>, Crimson Cult Hood
+<Thaumcraft:ItemHelmetFortress>, Thaumium Fortress Helm
+<Thaumcraft:ItemHelmetThaumium>, Thaumium Helm
+<Thaumcraft:ItemHelmetVoid>, Void Helm
+<Thaumcraft:ItemHelmetVoidFortress>, Void Thaumaturge Hood
+<Thaumcraft:ItemHoeElemental>, Hoe of Growth
+<Thaumcraft:ItemHoeThaumium>, Thaumium Hoe
+<Thaumcraft:ItemHoeVoid>, Void Hoe
+<Thaumcraft:ItemInkwell>, Scribing Tools
+<Thaumcraft:ItemLeggingsCultistLeaderPlate>, Crimson Praetor Greaves
+<Thaumcraft:ItemLeggingsCultistPlate>, Crimson Cult Greaves
+<Thaumcraft:ItemLeggingsCultistRobe>, Crimson Cult Leggings
+<Thaumcraft:ItemLeggingsFortress>, Thaumium Fortress Thigh Guards
+<Thaumcraft:ItemLeggingsRobe>, Thaumaturge's Leggings
+<Thaumcraft:ItemLeggingsThaumium>, Thaumium Leggings
+<Thaumcraft:ItemLeggingsVoid>, Void Leggings
+<Thaumcraft:ItemLeggingsVoidFortress>, Void Thaumaturge Leggings
+<Thaumcraft:ItemLootBag>, Common Treasure
+<Thaumcraft:ItemManaBean>, Mana Bean
+<Thaumcraft:ItemNugget>, Iron Nugget
+<Thaumcraft:ItemNuggetBeef>, Beef Nugget
+<Thaumcraft:ItemNuggetChicken>, Chicken Nugget
+<Thaumcraft:ItemNuggetFish>, Fish Nugget
+<Thaumcraft:ItemNuggetPork>, Pork Nugget
+<Thaumcraft:ItemPickThaumium>, Thaumium Pickaxe
+<Thaumcraft:ItemPickVoid>, Void Pickaxe
+<Thaumcraft:ItemPickaxeElemental>, Pickaxe of the Core
+<Thaumcraft:ItemPrimalCrusher>, Primal Crusher
+<Thaumcraft:ItemResearchNotes>, Research Notes
+<Thaumcraft:ItemResonator>, Essentia Resonator
+<Thaumcraft:ItemResource>, Alumentum
+<Thaumcraft:ItemRingRunic>, Ring of Protection
+<Thaumcraft:ItemSanityChecker>, Sanity Checker
+<Thaumcraft:ItemSanitySoap>, Sanitizing Soap
+<Thaumcraft:ItemShard>, Air Shard
+<Thaumcraft:ItemShovelElemental>, Shovel of the Earthmover
+<Thaumcraft:ItemShovelThaumium>, Thaumium Shovel
+<Thaumcraft:ItemShovelVoid>, Void Shovel
+<Thaumcraft:ItemSpawnerEgg>, Spawn Angry Zombie
+<Thaumcraft:ItemSwordCrimson>, Crimson Blade
+<Thaumcraft:ItemSwordElemental>, Sword of the Zephyr
+<Thaumcraft:ItemSwordThaumium>, Thaumium Sword
+<Thaumcraft:ItemSwordVoid>, Void Sword
+<Thaumcraft:ItemThaumometer>, Thaumometer
+<Thaumcraft:ItemThaumonomicon>, Thaumonomicon
+<Thaumcraft:ItemWispEssence>, Ethereal Essence
+<Thaumcraft:ItemZombieBrain>, Zombie Brain
+<Thaumcraft:PrimalArrow>, Air Arrow
+<Thaumcraft:TripleMeatTreat>, Triple Meat Treat
+<Thaumcraft:TrunkSpawner>, Traveling Trunk
+<Thaumcraft:WandCap>, Iron Cap
+<Thaumcraft:WandCasting>, Iron Capped Wooden Wand
+<Thaumcraft:WandRod>, Greatwood Rod
+<Thaumcraft:blockAiry>, Aura Node
+<Thaumcraft:blockAlchemyFurnace>, Advanced Alchemical Furnace
+<Thaumcraft:blockArcaneDoor>, Arcane Door
+<Thaumcraft:blockArcaneFurnace>, Infernal Furnace
+<Thaumcraft:blockCandle>, White Tallow Candle
+<Thaumcraft:blockChestHungry>, Hungry Chest
+<Thaumcraft:blockCosmeticDoubleSlabStone>, tile.blockCosmeticDoubleSlabStone.name
+<Thaumcraft:blockCosmeticDoubleSlabWood>, tile.blockCosmeticDoubleSlabWood.name
+<Thaumcraft:blockCosmeticOpaque>, Amber Block
+<Thaumcraft:blockCosmeticSlabStone>, Arcane Stone Slab
+<Thaumcraft:blockCosmeticSlabWood>, Greatwood Slab
+<Thaumcraft:blockCosmeticSolid>, Obsidian Totem
+<Thaumcraft:blockCrystal>, Air Crystal Cluster
+<Thaumcraft:blockCustomOre>, Cinnabar Ore
+<Thaumcraft:blockCustomPlant>, Greatwood Sapling
+<Thaumcraft:blockEldritch>, Eldritch Altar
+<Thaumcraft:blockEldritchNothing>, tile.blockPortalNothing.name
+<Thaumcraft:blockEssentiaReservoir>, Essentia Reservoir
+<Thaumcraft:blockFluidDeath>, Liquid Death
+<Thaumcraft:blockFluidPure>, Purifying Fluid
+<Thaumcraft:blockFluxGas>, Flux Gas
+<Thaumcraft:blockFluxGoo>, Flux Goo
+<Thaumcraft:blockHole>, Empty Space
+<Thaumcraft:blockJar>, Warded Jar
+<Thaumcraft:blockLifter>, Arcane Levitator
+<Thaumcraft:blockLootCrate>, Abandoned Crate
+<Thaumcraft:blockLootUrn>, Old Urn
+<Thaumcraft:blockMagicBox>, tile.blockMagicBox.name
+<Thaumcraft:blockMagicalLeaves>, Greatwood Leaves
+<Thaumcraft:blockMagicalLog>, Greatwood Log
+<Thaumcraft:blockManaPod>, tile.blockManaPod.name
+<Thaumcraft:blockMetalDevice>, Crucible
+<Thaumcraft:blockMirror>, Magic Mirror
+<Thaumcraft:blockPortalEldritch>, Eldritch Portal
+<Thaumcraft:blockStairsArcaneStone>, Arcane Stone Stairs
+<Thaumcraft:blockStairsEldritch>, Ancient Stone Stairs
+<Thaumcraft:blockStairsGreatwood>, Greatwood Stairs
+<Thaumcraft:blockStairsSilverwood>, Silverwood Stairs
+<Thaumcraft:blockStoneDevice>, Alchemical Furnace
+<Thaumcraft:blockTable>, Table
+<Thaumcraft:blockTaint>, Crusted Taint
+<Thaumcraft:blockTaintFibres>, Fibrous Taint
+<Thaumcraft:blockTube>, Essentia Tube
+<Thaumcraft:blockWarded>, tile.blockWarded.name
+<Thaumcraft:blockWoodenDevice>, Arcane Bellows
+<ThaumicTinkerer:Levitational Locomotive>, Levitational Locomotive
+<ThaumicTinkerer:Levitational Locomotive Relay>, Levitational Locomotive Relay
+<ThaumicTinkerer:animationTablet>, Dynamism Tablet
+<ThaumicTinkerer:aspectAnalyzer>, Aspectalyzer
+<ThaumicTinkerer:bedrockPortal>, Bedrock Portal
+<ThaumicTinkerer:blockTalisman>, Black Hole Ring
+<ThaumicTinkerer:bloodSword>, Cursed Spirit's Blade
+<ThaumicTinkerer:brightNitor>, Hyperenergetic Nitor
+<ThaumicTinkerer:catAmulet>, Feline Amulet
+<ThaumicTinkerer:cleansingTalisman>, Talisman of Remedium
+<ThaumicTinkerer:connector>, Transvector Binder
+<ThaumicTinkerer:darkQuartz>, Block of Smokey Quartz
+<ThaumicTinkerer:darkQuartzItem>, Smokey Quartz
+<ThaumicTinkerer:darkQuartzSlab>, Smokey Quartz Slab
+<ThaumicTinkerer:darkQuartzSlabFull>, Smokey Quartz Slab
+<ThaumicTinkerer:darkQuartzStairs>, Smokey Quartz Stairs
+<ThaumicTinkerer:dislocator>, Transvector Dislocator
+<ThaumicTinkerer:enchanter>, Osmotic Enchanter
+<ThaumicTinkerer:fireAir>, Aer Imbued Fire
+<ThaumicTinkerer:fireChaos>, Perditio Imbued Fire
+<ThaumicTinkerer:fireEarth>, Terra Imbued Fire
+<ThaumicTinkerer:fireFire>, Ignis Imbued Fire
+<ThaumicTinkerer:fireOrder>, Ordo Imbued Fire
+<ThaumicTinkerer:fireWater>, Aqua Imbued Fire
+<ThaumicTinkerer:focusDeflect>, Wand Focus: Distortion
+<ThaumicTinkerer:focusDislocation>, Wand Focus: Dislocation
+<ThaumicTinkerer:focusEnderChest>, Wand Focus: Ender Rift
+<ThaumicTinkerer:focusFlight>, Wand Focus: Uprising
+<ThaumicTinkerer:focusHeal>, Wand Focus: Mending
+<ThaumicTinkerer:focusRecall>, Wand Focus: Celestial Recall
+<ThaumicTinkerer:focusShadowbeam>, Wand Focus: Shadowbeam
+<ThaumicTinkerer:focusSmelt>, Wand Focus: Efreet's Flame
+<ThaumicTinkerer:focusTelekinesis>, Wand Focus: Telekinesis
+<ThaumicTinkerer:focusXPDrain>, Wand Focus: Experience Drain
+<ThaumicTinkerer:forcefield>, Forcefield
+<ThaumicTinkerer:funnel>, Essentia Funnel
+<ThaumicTinkerer:gasRemover>, Fume Dissipator
+<ThaumicTinkerer:gaseousLight>, tile.gaseousLight.name
+<ThaumicTinkerer:gaseousLightItem>, Gaseous Illuminae
+<ThaumicTinkerer:gaseousShadow>, tile.gaseousShadow.name
+<ThaumicTinkerer:gaseousShadowItem>, Gaseous Tenebrae
+<ThaumicTinkerer:golemConnector>, Golem Connector
+<ThaumicTinkerer:ichorAxe>, Ichorium Axe
+<ThaumicTinkerer:ichorAxeGem>, Awakened Ichorium Axe
+<ThaumicTinkerer:ichorPick>, Ichorium Pickaxe
+<ThaumicTinkerer:ichorPickGem>, Awakened Ichorium Pickaxe
+<ThaumicTinkerer:ichorPouch>, Bottomless Pouch
+<ThaumicTinkerer:ichorShovel>, Ichorium Shovel
+<ThaumicTinkerer:ichorShovelGem>, Awakened Ichorium Shovel
+<ThaumicTinkerer:ichorSword>, Ichorium Sword
+<ThaumicTinkerer:ichorSwordGem>, Awakened Ichorium Sword
+<ThaumicTinkerer:ichorclothBoots>, Ichorcloth Boots
+<ThaumicTinkerer:ichorclothBootsGem>, Boots of the Horizontal Shield
+<ThaumicTinkerer:ichorclothChest>, Ichorcloth Robe
+<ThaumicTinkerer:ichorclothChestGem>, Robes of the Stratosphere
+<ThaumicTinkerer:ichorclothHelm>, Ichorcloth Cowl
+<ThaumicTinkerer:ichorclothHelmGem>, Cowl of the Abyssal Depths
+<ThaumicTinkerer:ichorclothLegs>, Ichorcloth Leggings
+<ThaumicTinkerer:ichorclothLegsGem>, Leggings of the Burning Mantle
+<ThaumicTinkerer:infusedFarmland>, tile.infusedFarmland.name
+<ThaumicTinkerer:infusedGrain>, Imbued Grain
+<ThaumicTinkerer:infusedGrainBlock>, tile.infusedGrainBlock.name
+<ThaumicTinkerer:infusedInkwell>, Infused Scribing Tools (NYI)
+<ThaumicTinkerer:infusedPotion>, Potion of Aer
+<ThaumicTinkerer:infusedSeeds>, Infused Seeds
+<ThaumicTinkerer:interface>, Transvector Interface
+<ThaumicTinkerer:kamiResource>, Ichor
+<ThaumicTinkerer:magnet>, Kinetic Attractor
+<ThaumicTinkerer:mobAspect>, Soul Aspect
+<ThaumicTinkerer:nitorGas>, tile.nitorGas.name
+<ThaumicTinkerer:placementMirror>, Worldshaper's Looking Glass
+<ThaumicTinkerer:platform>, Ethereal Platform
+<ThaumicTinkerer:protoclay>, Protoclay
+<ThaumicTinkerer:repairer>, Thaumic Restorer
+<ThaumicTinkerer:revealingHelm>, Helmet of Revealing
+<ThaumicTinkerer:shareBook>, Tome of Knowledge Sharing
+<ThaumicTinkerer:skyPearl>, Celestial Pearl
+<ThaumicTinkerer:soulMould>, Soul Mould
+<ThaumicTinkerer:spawner>, Tablet of Necromancy
+<ThaumicTinkerer:spellCloth>, Spellbinding Cloth
+<ThaumicTinkerer:warpGate>, Celestial Gateway
+<ThaumicTinkerer:xpTalisman>, Talisman of Withhold
+<abyssalcraft:Crate>, Wooden Crate
+<abyssalcraft:OC>, §4Oblivion Catalyst
+<abyssalcraft:aaxe>, §3Abyssalnite Axe
+<abyssalcraft:aboots>, §3Abyssalnite Boots
+<abyssalcraft:abyblock>, §3Block of Abyssalnite
+<abyssalcraft:abybrick>, §9Abyssal Stone Bricks
+<abyssalcraft:abybutton>, §9Abyssal Stone Button
+<abyssalcraft:abychunk>, Chunk of Abyssalnite
+<abyssalcraft:abycopore>, Abyssal Copper Ore
+<abyssalcraft:abycorore>, Abyssal Coralium Ore
+<abyssalcraft:abydiaore>, Abyssal Diamond Ore
+<abyssalcraft:abydreadbrick>, Abyssalnite Stone Bricks
+<abyssalcraft:abydreadbrick1>, Abyssalnite Stone Brick Slab
+<abyssalcraft:abydreadbrick2>, Abyssalnite Stone Brick Slab
+<abyssalcraft:abydreadbrickfence>, Abyssalnite Stone Brick Fence
+<abyssalcraft:abydreadbrickstairs>, Abyssalnite Stone Brick Stairs
+<abyssalcraft:abydreadore>, Dreadlands Abyssalnite Ore
+<abyssalcraft:abydreadstone>, Abyssalnite Stone
+<abyssalcraft:abyfence>, §9Abyssal Stone Brick Fence
+<abyssalcraft:abygolore>, Abyssal Gold Ore
+<abyssalcraft:abyingot>, §3Abyssalnite Ingot
+<abyssalcraft:abyiroore>, Abyssal Iron Ore
+<abyssalcraft:abylcorore>, Liquified Coralium Ore
+<abyssalcraft:abynitore>, Abyssal Nitre Ore
+<abyssalcraft:abyore>, Abyssalnite Ore
+<abyssalcraft:abypcorore>, Pearlescent Coralium Ore
+<abyssalcraft:abypplate>, §9Abyssal Stone Pressure Plate
+<abyssalcraft:abyslab1>, §9Abyssal Stone Brick Slab
+<abyssalcraft:abyslab2>, §9Abyssal Stone Brick Doubleslab
+<abyssalcraft:abyssalniteu>, Abyssalnite Upgrade Kit
+<abyssalcraft:abyssalnomicon>, Abyssalnomicon
+<abyssalcraft:abystairs>, §9Abyssal Stone Brick Stairs
+<abyssalcraft:abystone>, §9Abyssal Stone
+<abyssalcraft:abytinore>, Abyssal Tin Ore
+<abyssalcraft:ahelmet>, §3Abyssalnite Helmet
+<abyssalcraft:ahoe>, §3Abyssalnite Hoe
+<abyssalcraft:alegs>, §3Abyssalnite Leggings
+<abyssalcraft:altar>, Altar
+<abyssalcraft:antibeef>, Anti-Beef
+<abyssalcraft:antibone>, Anti-Bone
+<abyssalcraft:antibucket>, Liquid Antimatter Bucket
+<abyssalcraft:antichicken>, Anti-Chicken
+<abyssalcraft:anticorbone>, Anti-plagued Flesh on A Bone
+<abyssalcraft:anticorflesh>, Anti-plagued Flesh
+<abyssalcraft:antiflesh>, Rotten Anti-Flesh
+<abyssalcraft:antipork>, Anti-Pork
+<abyssalcraft:antispidereye>, Anti-Spider Eye
+<abyssalcraft:antiwater>, Liquid Antimatter
+<abyssalcraft:apick>, §3Abyssalnite Pickaxe
+<abyssalcraft:aplate>, §3Abyssalnite Chestplate
+<abyssalcraft:ashovel>, §3Abyssalnite Shovel
+<abyssalcraft:asword>, §3Abyssalnite Sword
+<abyssalcraft:azathothcharm>, Azathoth Charm
+<abyssalcraft:azathothcoin>, Azathoth Engraved Coin
+<abyssalcraft:azathothstatue>, Azathoth Statue
+<abyssalcraft:beefp>, Beef on A Plate
+<abyssalcraft:carboncluster>, Carbon Cluster
+<abyssalcraft:cbrick>, Coralium Brick
+<abyssalcraft:cbucket>, Liquid Coralium Bucket
+<abyssalcraft:cchunk>, Chunk of Coralium
+<abyssalcraft:ccluster2>, Coralium Gem Cluster
+<abyssalcraft:ccluster3>, Coralium Gem Cluster
+<abyssalcraft:ccluster4>, Coralium Gem Cluster
+<abyssalcraft:ccluster5>, Coralium Gem Cluster
+<abyssalcraft:ccluster6>, Coralium Gem Cluster
+<abyssalcraft:ccluster7>, Coralium Gem Cluster
+<abyssalcraft:ccluster8>, Coralium Gem Cluster
+<abyssalcraft:ccluster9>, Coralium Gem Cluster
+<abyssalcraft:chagarothspawner>, Cha'garoth Spawner Block
+<abyssalcraft:charm>, Ritual Charm
+<abyssalcraft:chickenp>, Chicken on A Plate
+<abyssalcraft:cingot>, §bRefined Coralium Ingot
+<abyssalcraft:cloth>, Washcloth
+<abyssalcraft:cobbleu>, Cobblestone Upgrade Kit
+<abyssalcraft:coin>, Coin
+<abyssalcraft:copperingot>, Copper Ingot
+<abyssalcraft:coralium>, Coralium Gem
+<abyssalcraft:coraliumfire>, Coralium Fire
+<abyssalcraft:coraliumore>, Coralium Ore
+<abyssalcraft:coraliumstone>, Coralium Infused Stone
+<abyssalcraft:coraliumu>, Coralium Upgrade Kit
+<abyssalcraft:coraxe>, §bRefined Coralium Axe
+<abyssalcraft:corb>, §bTransmutation Gem
+<abyssalcraft:corblock>, §bBlock of Refined Coralium
+<abyssalcraft:corbone>, Coralium plagued flesh on a bone
+<abyssalcraft:corboots>, §bRefined Coralium Boots
+<abyssalcraft:corbootsp>, §aPlated Coralium Boots
+<abyssalcraft:corbow>, §bCoralium Longbow
+<abyssalcraft:corflesh>, Coralium plagued flesh
+<abyssalcraft:corhelmet>, §bRefined Coralium Helmet
+<abyssalcraft:corhelmetp>, §aPlated Coralium Helmet
+<abyssalcraft:corhoe>, §bRefined Coralium Hoe
+<abyssalcraft:corlegs>, §bRefined Coralium Leggings
+<abyssalcraft:corlegsp>, §aPlated Coralium Leggings
+<abyssalcraft:corpick>, §bRefined Coralium Pickaxe
+<abyssalcraft:corplate>, §bRefined Coralium Chestplate
+<abyssalcraft:corplatep>, §aPlated Coralium Chestplate
+<abyssalcraft:corshovel>, §bRefined Coralium Shovel
+<abyssalcraft:corsword>, §bRefined Coralium Sword
+<abyssalcraft:cpearl>, §bCoralium Pearl
+<abyssalcraft:crystal>, Crystallized Iron
+<abyssalcraft:crystalbag_huge>, Huge Crystal Bag
+<abyssalcraft:crystalbag_large>, Large Crystal Bag
+<abyssalcraft:crystalbag_medium>, Medium Crystal Bag
+<abyssalcraft:crystalbag_small>, Small Crystal Bag
+<abyssalcraft:crystallizer>, Crystallizer
+<abyssalcraft:crystallizer_on>, Crystallizer
+<abyssalcraft:crystalshard>, Crystallized Iron Shard
+<abyssalcraft:cstobebrickslab2>, Coralium Brick Slab
+<abyssalcraft:cstone>, Coralium Stone
+<abyssalcraft:cstonebrick>, Coralium Brick
+<abyssalcraft:cstonebrickfence>, Coralium Brick Fence
+<abyssalcraft:cstonebrickslab1>, Coralium Brick Slab
+<abyssalcraft:cstonebrickstairs>, Coralium Brick Stairs
+<abyssalcraft:cstonebutton>, Coralium Stone Button
+<abyssalcraft:cstonepplate>, Coralium Stone Pressure Plate
+<abyssalcraft:cthulhucharm>, Cthulhu Charm
+<abyssalcraft:cthulhucoin>, Cthulhu Engraved Coin
+<abyssalcraft:cthulhustatue>, Cthulhu Statue
+<abyssalcraft:cudgel>, Cudgel
+<abyssalcraft:cwater>, Liquid Coralium
+<abyssalcraft:darkbrickslab1>, Darkstone Brick Slab
+<abyssalcraft:darkbrickslab2>, Darkstone Brick Slab
+<abyssalcraft:darkcobblelsab1>, Darkstone Cobblestone Slab
+<abyssalcraft:darkcobblelsab2>, Darkstone Cobblestone Slab
+<abyssalcraft:darkethaxiumbrick>, §4Dark Ethaxium Brick
+<abyssalcraft:darkethaxiumbrickfence>, §4Dark Ethaxium Brick Fence
+<abyssalcraft:darkethaxiumbrickslab1>, §4Dark Ethaxium Brick Slab
+<abyssalcraft:darkethaxiumbrickslab2>, §4Dark Ethaxium Brick Doubleslab
+<abyssalcraft:darkethaxiumbrickstairs>, §4Dark Ethaxium Brick Stairs
+<abyssalcraft:darkethaxiumpillar>, §4Dark Ethaxium Pillar
+<abyssalcraft:darkgrass>, Darklands Grass
+<abyssalcraft:darkstone>, Darkstone
+<abyssalcraft:darkstone_brick>, Darkstone Bricks
+<abyssalcraft:darkstone_cobble>, Darkstone Cobblestone
+<abyssalcraft:darkstoneslab1>, Darkstone Slab
+<abyssalcraft:darkstoneslab2>, Darkstone Slab
+<abyssalcraft:daxe>, Darkstone Axe
+<abyssalcraft:dboots>, §4Dreaded Abyssalnite Boots
+<abyssalcraft:dbstairs>, Darkstone Brick Stairs
+<abyssalcraft:dcstairs>, Darkstone Cobblestone Stairs
+<abyssalcraft:densecarboncluster>, Dense Carbon Cluster
+<abyssalcraft:depthsboots>, §4Boots of The Depths
+<abyssalcraft:depthshelmet>, §4Visage of The Depths
+<abyssalcraft:depthslegs>, §4Legguards of The Depths
+<abyssalcraft:depthsplate>, §4Chestplate of The Depths
+<abyssalcraft:devsword>, §4The Dev Blade
+<abyssalcraft:dghead>, Depths Ghoul head
+<abyssalcraft:dhelmet>, §4Dreaded Abyssalnite Helmet
+<abyssalcraft:dhoe>, Darkstone Hoe
+<abyssalcraft:diamondu>, Diamond Upgrade Kit
+<abyssalcraft:dirtyplate>, Dirty Plate
+<abyssalcraft:dlegs>, §4Dreaded Abyssalnite Leggings
+<abyssalcraft:dltbutton>, Darklands Oak Wood Button
+<abyssalcraft:dltfence>, Darklands Oak Wood Fence
+<abyssalcraft:dltleaves>, Darklands Oak Leaves
+<abyssalcraft:dltlog>, Darklands Oak Wood
+<abyssalcraft:dltplank>, Darklands Oak Wood Planks
+<abyssalcraft:dltpplate>, Darklands Oak Wood Pressure Plate
+<abyssalcraft:dltsapling>, Darklands Oak Sapling
+<abyssalcraft:dltslab1>, Darklands Oak Wood Slab
+<abyssalcraft:dltslab2>, Darklands Oak Wood Slab
+<abyssalcraft:dltstairs>, Darklands Oak Wood Stairs
+<abyssalcraft:dpick>, Darkstone Pickaxe
+<abyssalcraft:dplate>, §4Dreaded Abyssalnite Chestplate
+<abyssalcraft:drainstaff>, Staff of Rending
+<abyssalcraft:dreadaltarbottom>, Altar of Cha'garoth (bottom)
+<abyssalcraft:dreadaltartop>, Altar of Cha'garoth (top)
+<abyssalcraft:dreadblade>, Dreadium Katana Blade
+<abyssalcraft:dreadbrick>, Dreadstone Bricks
+<abyssalcraft:dreadbrickfence>, Dreadstone Brick Fence
+<abyssalcraft:dreadbrickslab1>, Dreadstone Brick Slab
+<abyssalcraft:dreadbrickslab2>, Dreadstone Brick Slab
+<abyssalcraft:dreadbrickstairs>, Dreadstone Brick Stairs
+<abyssalcraft:dreadchunk>, §4Dreaded Chunk of Abyssalnite
+<abyssalcraft:dreadcloth>, Dread Cloth
+<abyssalcraft:dreadfire>, Dreaded Fire
+<abyssalcraft:dreadfragment>, §4Dread Fragment
+<abyssalcraft:dreadgrass>, Dreadlands Grass
+<abyssalcraft:dreadguardspawner>, Dreadguard Spawner Block
+<abyssalcraft:dreadhilt>, Dreadium Katana Hilt
+<abyssalcraft:dreadiumaxe>, §4Dreadium Axe
+<abyssalcraft:dreadiumblock>, §4Block of Dreadium
+<abyssalcraft:dreadiumboots>, §4Dreadium Boots
+<abyssalcraft:dreadiumhelmet>, §4Dreadium Helmet
+<abyssalcraft:dreadiumhoe>, §4Dreadium Hoe
+<abyssalcraft:dreadiumlegs>, §4Dreadium Leggings
+<abyssalcraft:dreadiumpickaxe>, §4Dreadium Pickaxe
+<abyssalcraft:dreadiumplate>, §4Dreadium Chestplate
+<abyssalcraft:dreadiumsamuraiboots>, §4Dreadium Samurai Boots
+<abyssalcraft:dreadiumsamuraihelmet>, §4Dreadium Samurai Helmet
+<abyssalcraft:dreadiumsamurailegs>, §4Dreadium Samurai Leggings
+<abyssalcraft:dreadiumsamuraiplate>, §4Dreadium Samurai Chestplate
+<abyssalcraft:dreadiumshovel>, §4Dreadium Shovel
+<abyssalcraft:dreadiumsword>, §4Dreadium Sword
+<abyssalcraft:dreadiumu>, Dreadium Upgrade Kit
+<abyssalcraft:dreadkatana>, Katana
+<abyssalcraft:dreadkey>, Dread-plagued Gateway Key
+<abyssalcraft:dreadleaves>, Dreadlands Wood Leaves
+<abyssalcraft:dreadlog>, Dreadlands Wood Log
+<abyssalcraft:dreadore>, Dreaded Abyssalnite Ore
+<abyssalcraft:dreadplanks>, Dreadlands Wood Planks
+<abyssalcraft:dreadplate>, Dreadium Plate
+<abyssalcraft:dreadportal>, Dreadlands Gateway
+<abyssalcraft:dreadsapling>, Dreadlands Wood Sapling
+<abyssalcraft:dreadshard>, §4Dreaded Shard of Abyssalnite
+<abyssalcraft:dreadstone>, Dreadstone
+<abyssalcraft:dreadumingot>, §4Dreadium Ingot
+<abyssalcraft:drtfence>, Dreadlands Wood Fence
+<abyssalcraft:dsbfence>, Darkstone Brick Fence
+<abyssalcraft:dsbutton>, Darkstone Button
+<abyssalcraft:dscwall>, Darkstone Cobblestone Wall
+<abyssalcraft:dsglow>, Glowing Darkstone Bricks
+<abyssalcraft:dshovel>, Darkstone Shovel
+<abyssalcraft:dspplate>, Darkstone Pressure Plate
+<abyssalcraft:dsword>, Darkstone Sword
+<abyssalcraft:eggp>, Fried Egg on A Plate
+<abyssalcraft:eldercoin>, Elder Engraved Coin
+<abyssalcraft:eldritchscale>, Eldritch Scale
+<abyssalcraft:energypedestal>, Energy Pedestal
+<abyssalcraft:engraver>, Engraver
+<abyssalcraft:engraver_on>, A House
+<abyssalcraft:engraving_azathoth>, Azathoth Coin Engraving
+<abyssalcraft:engraving_blank>, Blank Coin Engraving
+<abyssalcraft:engraving_cthulhu>, Cthulhu Coin Engraving
+<abyssalcraft:engraving_elder>, Elder Coin Engraving
+<abyssalcraft:engraving_hastur>, Hastur Coin Engraving
+<abyssalcraft:engraving_jzahar>, J'zahar Coin Engraving
+<abyssalcraft:engraving_nyarlathotep>, Nyarlathotep Coin Engraving
+<abyssalcraft:engraving_shubniggurath>, Shub-Niggurath Coin Engraving
+<abyssalcraft:engraving_yogsothoth>, Yog-Sothoth Coin Engraving
+<abyssalcraft:eoa>, §bEye of The Abyss
+<abyssalcraft:essence>, Abyssal Wasteland Essence
+<abyssalcraft:ethaxium>, §bEthaxium
+<abyssalcraft:ethaxiumaxe>, §bEthaxium Axe
+<abyssalcraft:ethaxiumblock>, §bBlock of Ethaxium
+<abyssalcraft:ethaxiumboots>, §bEthaxium Boots
+<abyssalcraft:ethaxiumbrick>, §bEthaxium Brick
+<abyssalcraft:ethaxiumbrickslab1>, §bEthaxium Brick Slab
+<abyssalcraft:ethaxiumbrickslab2>, §bEthaxium Brick Doubleslab
+<abyssalcraft:ethaxiumbrickstairs>, §bEthaxium Brick Stairs
+<abyssalcraft:ethaxiumfence>, §bEthaxium Brick Fence
+<abyssalcraft:ethaxiumhelmet>, §bEthaxium Helmet
+<abyssalcraft:ethaxiumhoe>, §bEthaxium Hoe
+<abyssalcraft:ethaxiumingot>, §bEthaxium Ingot
+<abyssalcraft:ethaxiumlegs>, §bEthaxium Leggings
+<abyssalcraft:ethaxiumpickaxe>, §bEthaxium Pickaxe
+<abyssalcraft:ethaxiumpillar>, §bEthaxium Pillar
+<abyssalcraft:ethaxiumplate>, §bEthaxium Chestplate
+<abyssalcraft:ethaxiumshovel>, §bEthaxium Shovel
+<abyssalcraft:ethaxiumsword>, §bEthaxium Sword
+<abyssalcraft:ethaxiumu>, Ethaxium Upgrade Kit
+<abyssalcraft:ethbrick>, Ethaxium Brick
+<abyssalcraft:fire>, Fire
+<abyssalcraft:fishp>, Fish on A Plate
+<abyssalcraft:friedegg>, Fried Egg
+<abyssalcraft:gatekeeperessence>, §9Essence of The Gatekeeper
+<abyssalcraft:gatekeeperminionspawner>, Minion of The Gatekeeper Spawner Block
+<abyssalcraft:goldu>, Gold Upgrade Kit
+<abyssalcraft:hasturcharm>, Hastur Charm
+<abyssalcraft:hasturcoin>, Hastur Engraved Coin
+<abyssalcraft:hasturstatue>, Hastur Statue
+<abyssalcraft:ingotnugget>, Abyssalnite Nugget
+<abyssalcraft:ironp>, Iron Plate
+<abyssalcraft:ironu>, Iron Upgrade Kit
+<abyssalcraft:jzaharcharm>, J'zahar Charm
+<abyssalcraft:jzaharcoin>, J'zahar Engraved Coin
+<abyssalcraft:jzaharspawner>, J'zahar Spawner Block
+<abyssalcraft:jzahatstatue>, J'zahar Statue
+<abyssalcraft:lifecrystal>, Life Crystal
+<abyssalcraft:materializer>, Materializer
+<abyssalcraft:methane>, Methane
+<abyssalcraft:monolithpillar>, Monolith Stone Pillar
+<abyssalcraft:monolithstone>, Monolith Stone
+<abyssalcraft:mre>, MRE
+<abyssalcraft:necronomicon>, Necronomicon
+<abyssalcraft:necronomicon_cor>, Abyssal Wasteland Necronomicon
+<abyssalcraft:necronomicon_dre>, Dreadlands Necronomicon
+<abyssalcraft:necronomicon_omt>, Omothol Necronomicon
+<abyssalcraft:nitre>, Nitre
+<abyssalcraft:nitreore>, Nitre Ore
+<abyssalcraft:nyarlathotepcharm>, Nyarlathotep Charm
+<abyssalcraft:nyarlathotepcoin>, Nyarlathotep Engraved Coin
+<abyssalcraft:nyarlathotepstatue>, Nyarlathotep Statue
+<abyssalcraft:oblivionshard>, Shard of Oblivion
+<abyssalcraft:odb>, §4Oblivion Deathbomb
+<abyssalcraft:odbcore>, §4ODB Core
+<abyssalcraft:ohead>, Dr. Orange's head
+<abyssalcraft:omotholfire>, Omothol Fire
+<abyssalcraft:omotholflesh>, Omothol Ghoul Flesh
+<abyssalcraft:omotholportal>, Omothol Gateway
+<abyssalcraft:omotholstone>, Omothol Stone
+<abyssalcraft:phead>, Pete's head
+<abyssalcraft:platec>, §bCoralium Plate
+<abyssalcraft:porkp>, Porkchop on A Plate
+<abyssalcraft:portal>, Abyssal Gateway
+<abyssalcraft:portalplacer>, Gateway Key
+<abyssalcraft:portalplacerdl>, §4Asorah's Dreaded Gateway Key
+<abyssalcraft:portalplacerjzh>, §9Cha'garoth's R'lyehian Gateway Key
+<abyssalcraft:psdl>, Dreadlands Infused Powerstone
+<abyssalcraft:psdlfinder>, Powerstone Tracker
+<abyssalcraft:ritualaltar>, Ritual Altar
+<abyssalcraft:ritualpedestal>, Ritual Pedestal
+<abyssalcraft:sacrificialaltar>, Sacrificial Altar
+<abyssalcraft:shadowfragment>, Shadow Fragment
+<abyssalcraft:shadowgem>, Shadow Gem
+<abyssalcraft:shadowshard>, Shadow Gem Shard
+<abyssalcraft:shoggothbiomass>, Shoggoth Biomass
+<abyssalcraft:shoggothblock>, Shoggoth Ooze
+<abyssalcraft:shoggothflesh>, Shoggoth Flesh
+<abyssalcraft:shubniggurathcharm>, Shub-Niggurath Charm
+<abyssalcraft:shubniggurathcoin>, Shub-Niggurath Engraved Coin
+<abyssalcraft:shubniggurathstatue>, Shub-Niggurath Statue
+<abyssalcraft:skin>, Skin of The Abyssal Wasteland
+<abyssalcraft:solidlava>, Solid lava
+<abyssalcraft:soulreaper>, Sacthoth's Soul Reaper Blade
+<abyssalcraft:staff>, §9Staff of The Gatekeeper
+<abyssalcraft:sulfur>, Sulfur
+<abyssalcraft:tieredenergypedestal>, Overworld Energy Pedestal
+<abyssalcraft:tieredsacrificialaltar>, Overworld Sacrificial Altar
+<abyssalcraft:tingingot>, Tin Ingot
+<abyssalcraft:transmutator>, Transmutator
+<abyssalcraft:transmutator_on>, Transmutator
+<abyssalcraft:whead>, Mr. Wilson's head
+<abyssalcraft:yogsothothcharm>, Yog-Sothoth Charm
+<abyssalcraft:yogsothothcoin>, Yog-Sothoth Engraved Coin
+<abyssalcraft:yogsothothstatue>, Yog-Sothoth Statue
+<acintegration:dust>, Abyssalnite Dust
+<acintegration:thaumiumu>, Thaumium Upgrade Kit
+<acintegration:voidmetalu>, Void metal Upgrade Kit
+<acintegration:wandcap>, Abyssalnite Cap
+<acintegration:wandcore>, Darklands Oak Rod
+<appliedenergistics2:item.ItemBasicStorageCell.16k>, 16k ME Storage Cell
+<appliedenergistics2:item.ItemBasicStorageCell.1k>, 1k ME Storage Cell
+<appliedenergistics2:item.ItemBasicStorageCell.4k>, 4k ME Storage Cell
+<appliedenergistics2:item.ItemBasicStorageCell.64k>, 64k ME Storage Cell
+<appliedenergistics2:item.ItemCreativeStorageCell>, Creative ME Storage Cell
+<appliedenergistics2:item.ItemCrystalSeed>, Certus Quartz Seed
+<appliedenergistics2:item.ItemEncodedPattern>, Encoded Pattern
+<appliedenergistics2:item.ItemFacade>, Cable Facade - Glass
+<appliedenergistics2:item.ItemMultiMaterial>, Certus Quartz Crystal
+<appliedenergistics2:item.ItemMultiPart>, ME Glass Cable - White
+<appliedenergistics2:item.ItemPaintBall>, Paint Ball - White
+<appliedenergistics2:item.ItemSpatialStorageCell.128Cubed>, 128³ Spatial Storage Cell
+<appliedenergistics2:item.ItemSpatialStorageCell.16Cubed>, 16³ Spatial Storage Cell
+<appliedenergistics2:item.ItemSpatialStorageCell.2Cubed>, 2³ Spatial Storage Cell
+<appliedenergistics2:item.ItemViewCell>, View Cell
+<appliedenergistics2:item.ToolBiometricCard>, Biometric Card
+<appliedenergistics2:item.ToolCertusQuartzAxe>, Certus Quartz Axe
+<appliedenergistics2:item.ToolCertusQuartzCuttingKnife>, Certus Quartz Cutting Knife
+<appliedenergistics2:item.ToolCertusQuartzHoe>, Certus Quartz Hoe
+<appliedenergistics2:item.ToolCertusQuartzPickaxe>, Certus Quartz Pickaxe
+<appliedenergistics2:item.ToolCertusQuartzSpade>, Certus Quartz Shovel
+<appliedenergistics2:item.ToolCertusQuartzSword>, Certus Quartz Sword
+<appliedenergistics2:item.ToolCertusQuartzWrench>, Certus Quartz Wrench
+<appliedenergistics2:item.ToolChargedStaff>, Charged Staff
+<appliedenergistics2:item.ToolColorApplicator>, Color Applicator - Empty
+<appliedenergistics2:item.ToolEntropyManipulator>, Entropy Manipulator
+<appliedenergistics2:item.ToolMassCannon>, Matter Cannon
+<appliedenergistics2:item.ToolMemoryCard>, Memory Card
+<appliedenergistics2:item.ToolNetherQuartzAxe>, Nether Quartz Axe
+<appliedenergistics2:item.ToolNetherQuartzCuttingKnife>, Nether Quartz Cutting Knife
+<appliedenergistics2:item.ToolNetherQuartzHoe>, Nether Quartz Hoe
+<appliedenergistics2:item.ToolNetherQuartzPickaxe>, Nether Quartz Pickaxe
+<appliedenergistics2:item.ToolNetherQuartzSpade>, Nether Quartz Shovel
+<appliedenergistics2:item.ToolNetherQuartzSword>, Nether Quartz Sword
+<appliedenergistics2:item.ToolNetherQuartzWrench>, Nether Quartz Wrench
+<appliedenergistics2:item.ToolNetworkTool>, Network Tool
+<appliedenergistics2:item.ToolPortableCell>, Portable Cell
+<appliedenergistics2:item.ToolWirelessTerminal>, Wireless Terminal
+<appliedenergistics2:tile.BlockCableBus>, AE2 Cable and/or Bus
+<appliedenergistics2:tile.BlockCellWorkbench>, Cell Workbench
+<appliedenergistics2:tile.BlockCharger>, Charger
+<appliedenergistics2:tile.BlockChest>, ME Chest
+<appliedenergistics2:tile.BlockCondenser>, Matter Condenser
+<appliedenergistics2:tile.BlockController>, ME Controller
+<appliedenergistics2:tile.BlockCraftingMonitor>, Crafting Monitor
+<appliedenergistics2:tile.BlockCraftingStorage>, 1k Crafting Storage
+<appliedenergistics2:tile.BlockCraftingUnit>, Crafting Unit
+<appliedenergistics2:tile.BlockCrank>, Wooden Crank
+<appliedenergistics2:tile.BlockCreativeEnergyCell>, Creative Energy Cell
+<appliedenergistics2:tile.BlockDenseEnergyCell>, Dense Energy Cell
+<appliedenergistics2:tile.BlockDrive>, ME Drive
+<appliedenergistics2:tile.BlockEnergyAcceptor>, Energy Acceptor
+<appliedenergistics2:tile.BlockEnergyCell>, Energy Cell
+<appliedenergistics2:tile.BlockFluix>, Fluix Block
+<appliedenergistics2:tile.BlockGrinder>, Quartz Grindstone
+<appliedenergistics2:tile.BlockIOPort>, ME IO Port
+<appliedenergistics2:tile.BlockInscriber>, Inscriber
+<appliedenergistics2:tile.BlockInterface>, ME Interface
+<appliedenergistics2:tile.BlockLightDetector>, Light Detecting Fixture
+<appliedenergistics2:tile.BlockMatrixFrame>, Matrix Frame
+<appliedenergistics2:tile.BlockMolecularAssembler>, Molecular Assembler
+<appliedenergistics2:tile.BlockPaint>, tile.appliedenergistics2.BlockPaint.name
+<appliedenergistics2:tile.BlockQuantumLinkChamber>, ME Quantum Link Chamber
+<appliedenergistics2:tile.BlockQuantumRing>, ME Quantum Ring
+<appliedenergistics2:tile.BlockQuartz>, Certus Quartz Block
+<appliedenergistics2:tile.BlockQuartzChiseled>, Chiseled Certus Quartz Block
+<appliedenergistics2:tile.BlockQuartzGlass>, Quartz Glass
+<appliedenergistics2:tile.BlockQuartzGrowthAccelerator>, Crystal Growth Accelerator
+<appliedenergistics2:tile.BlockQuartzLamp>, Vibrant Quartz Glass
+<appliedenergistics2:tile.BlockQuartzPillar>, Certus Quartz Pillar
+<appliedenergistics2:tile.BlockQuartzTorch>, Charged Quartz Fixture
+<appliedenergistics2:tile.BlockSecurity>, ME Security Terminal
+<appliedenergistics2:tile.BlockSkyChest>, Sky Stone Chest
+<appliedenergistics2:tile.BlockSkyCompass>, Meteorite Compass
+<appliedenergistics2:tile.BlockSkyStone>, Sky Stone
+<appliedenergistics2:tile.BlockSpatialIOPort>, Spatial IO Port
+<appliedenergistics2:tile.BlockSpatialPylon>, Spatial Pylon
+<appliedenergistics2:tile.BlockTinyTNT>, Tiny TNT
+<appliedenergistics2:tile.BlockVibrationChamber>, Vibration Chamber
+<appliedenergistics2:tile.BlockWireless>, ME Wireless Access Point
+<appliedenergistics2:tile.ChiseledQuartzStairBlock>, Chiseled Certus Quartz Stairs
+<appliedenergistics2:tile.FluixStairBlock>, Fluix Stairs
+<appliedenergistics2:tile.OreQuartz>, Certus Quartz Ore
+<appliedenergistics2:tile.OreQuartzCharged>, Charged Certus Quartz Ore
+<appliedenergistics2:tile.QuartzPillarStairBlock>, Certus Quartz Pillar Stairs
+<appliedenergistics2:tile.QuartzStairBlock>, Certus Quartz Stairs
+<appliedenergistics2:tile.SkyStoneBlockStairBlock>, Sky Stone Block Stairs
+<appliedenergistics2:tile.SkyStoneBrickStairBlock>, Sky Stone Brick Stairs
+<appliedenergistics2:tile.SkyStoneSmallBrickStairBlock>, Sky Stone Small Brick Stairs
+<appliedenergistics2:tile.SkyStoneStairBlock>, Sky Stone Stairs
+<eplus:item.tableUpgrade>, Table Upgrade
+<eplus:tile.advancedEnchantmentTable>, Advanced Enchantment Table
+<guideapi:ItemGuideBook>, Sanguine Scientiem
+<guideapi:ItemLostPage>, Lost Page
+<minecraft:acacia_stairs>, Acacia Wood Stairs
+<minecraft:activator_rail>, Activator Track
+<minecraft:anvil>, Anvil
+<minecraft:apple>, Apple
+<minecraft:arrow>, Arrow
+<minecraft:baked_potato>, Baked Potato
+<minecraft:beacon>, Beacon
+<minecraft:bed>, Bed
+<minecraft:bedrock>, Bedrock
+<minecraft:beef>, Raw Beef
+<minecraft:birch_stairs>, Birch Wood Stairs
+<minecraft:blaze_powder>, Blaze Powder
+<minecraft:blaze_rod>, Blaze Rod
+<minecraft:boat>, Boat
+<minecraft:bone>, Bone
+<minecraft:book>, Book
+<minecraft:bookshelf>, Bookshelf
+<minecraft:bow>, Bow
+<minecraft:bowl>, Bowl
+<minecraft:bread>, Bread
+<minecraft:brewing_stand>, Brewing Stand
+<minecraft:brick>, Brick
+<minecraft:brick_block>, Bricks
+<minecraft:brick_stairs>, Brick Stairs
+<minecraft:brown_mushroom>, Mushroom
+<minecraft:brown_mushroom_block>, Mushroom
+<minecraft:bucket>, Bucket
+<minecraft:cactus>, Cactus
+<minecraft:cake>, Cake
+<minecraft:carpet>, Carpet
+<minecraft:carrot>, Carrot
+<minecraft:carrot_on_a_stick>, Carrot on a Stick
+<minecraft:carrots>, Carrots
+<minecraft:cauldron>, Cauldron
+<minecraft:chainmail_boots>, Chain Boots
+<minecraft:chainmail_chestplate>, Chain Chestplate
+<minecraft:chainmail_helmet>, Chain Helmet
+<minecraft:chainmail_leggings>, Chain Leggings
+<minecraft:chest>, Chest
+<minecraft:chest_minecart>, Chest Cart
+<minecraft:chicken>, Raw Chicken
+<minecraft:clay>, Clay
+<minecraft:clay_ball>, Clay
+<minecraft:clock>, Clock
+<minecraft:coal>, Coal
+<minecraft:coal_block>, Block of Coal
+<minecraft:coal_ore>, Coal Ore
+<minecraft:cobblestone>, Cobblestone
+<minecraft:cobblestone_wall>, Cobblestone Wall
+<minecraft:cocoa>, Cocoa
+<minecraft:command_block>, Command Block
+<minecraft:command_block_minecart>, Minecart with Command Block
+<minecraft:comparator>, Redstone Comparator
+<minecraft:compass>, Compass
+<minecraft:cooked_beef>, Steak
+<minecraft:cooked_chicken>, Cooked Chicken
+<minecraft:cooked_fished>, Cooked Fish
+<minecraft:cooked_porkchop>, Cooked Porkchop
+<minecraft:cookie>, Cookie
+<minecraft:crafting_table>, Crafting Table
+<minecraft:dark_oak_stairs>, Dark Oak Wood Stairs
+<minecraft:daylight_detector>, Daylight Sensor
+<minecraft:deadbush>, Dead Bush
+<minecraft:detector_rail>, Detector Track
+<minecraft:diamond>, Diamond
+<minecraft:diamond_axe>, Diamond Axe
+<minecraft:diamond_block>, Block of Diamond
+<minecraft:diamond_boots>, Diamond Boots
+<minecraft:diamond_chestplate>, Diamond Chestplate
+<minecraft:diamond_helmet>, Diamond Helmet
+<minecraft:diamond_hoe>, Diamond Hoe
+<minecraft:diamond_horse_armor>, Diamond Horse Armor
+<minecraft:diamond_leggings>, Diamond Leggings
+<minecraft:diamond_ore>, Diamond Ore
+<minecraft:diamond_pickaxe>, Diamond Pickaxe
+<minecraft:diamond_shovel>, Diamond Shovel
+<minecraft:diamond_sword>, Diamond Sword
+<minecraft:dirt>, Dirt
+<minecraft:dispenser>, Dispenser
+<minecraft:double_plant>, Sunflower
+<minecraft:double_stone_slab>, Stone Slab
+<minecraft:double_wooden_slab>, Oak Wood Slab
+<minecraft:dragon_egg>, Dragon Egg
+<minecraft:dropper>, Dropper
+<minecraft:dye>, Ink Sac
+<minecraft:egg>, Egg
+<minecraft:emerald>, Emerald
+<minecraft:emerald_block>, Block of Emerald
+<minecraft:emerald_ore>, Emerald Ore
+<minecraft:enchanted_book>, Enchanted Book
+<minecraft:enchanting_table>, Enchantment Table
+<minecraft:end_portal>, tile.null.name
+<minecraft:end_portal_frame>, End Portal
+<minecraft:end_stone>, End Stone
+<minecraft:ender_chest>, Ender Chest
+<minecraft:ender_eye>, Eye of Ender
+<minecraft:ender_pearl>, Ender Pearl
+<minecraft:experience_bottle>, Bottle o' Enchanting
+<minecraft:farmland>, Farmland
+<minecraft:feather>, Feather
+<minecraft:fence>, Fence
+<minecraft:fence_gate>, Fence Gate
+<minecraft:fermented_spider_eye>, Fermented Spider Eye
+<minecraft:filled_map>, Map
+<minecraft:fire>, Fire
+<minecraft:fire_charge>, Fire Charge
+<minecraft:firework_charge>, Firework Star
+<minecraft:fireworks>, Firework Rocket
+<minecraft:fish>, Raw Fish
+<minecraft:fishing_rod>, Fishing Rod
+<minecraft:flint>, Flint
+<minecraft:flint_and_steel>, Flint and Steel
+<minecraft:flower_pot>, Flower Pot
+<minecraft:flowing_lava>, Lava
+<minecraft:flowing_water>, Water
+<minecraft:furnace>, Furnace
+<minecraft:furnace_minecart>, Furnace Cart
+<minecraft:ghast_tear>, Ghast Tear
+<minecraft:glass>, Glass
+<minecraft:glass_bottle>, Glass Bottle
+<minecraft:glass_pane>, Glass Pane
+<minecraft:glowstone>, Glowstone
+<minecraft:glowstone_dust>, Glowstone Dust
+<minecraft:gold_block>, Block of Gold
+<minecraft:gold_ingot>, Gold Ingot
+<minecraft:gold_nugget>, Gold Nugget
+<minecraft:gold_ore>, Gold Ore
+<minecraft:golden_apple>, Golden Apple
+<minecraft:golden_axe>, Golden Axe
+<minecraft:golden_boots>, Golden Boots
+<minecraft:golden_carrot>, Golden Carrot
+<minecraft:golden_chestplate>, Golden Chestplate
+<minecraft:golden_helmet>, Golden Helmet
+<minecraft:golden_hoe>, Golden Hoe
+<minecraft:golden_horse_armor>, Gold Horse Armor
+<minecraft:golden_leggings>, Golden Leggings
+<minecraft:golden_pickaxe>, Golden Pickaxe
+<minecraft:golden_rail>, Booster Track
+<minecraft:golden_shovel>, Golden Shovel
+<minecraft:golden_sword>, Golden Sword
+<minecraft:grass>, Grass Block
+<minecraft:gravel>, Gravel
+<minecraft:gunpowder>, Gunpowder
+<minecraft:hardened_clay>, Hardened Clay
+<minecraft:hay_block>, Hay Bale
+<minecraft:heavy_weighted_pressure_plate>, Weighted Pressure Plate (Heavy)
+<minecraft:hopper>, Hopper
+<minecraft:hopper_minecart>, Hopper Cart
+<minecraft:ice>, Ice
+<minecraft:iron_axe>, Iron Axe
+<minecraft:iron_bars>, Iron Bars
+<minecraft:iron_block>, Block of Iron
+<minecraft:iron_boots>, Iron Boots
+<minecraft:iron_chestplate>, Iron Chestplate
+<minecraft:iron_door>, Iron Door
+<minecraft:iron_helmet>, Iron Helmet
+<minecraft:iron_hoe>, Iron Hoe
+<minecraft:iron_horse_armor>, Iron Horse Armor
+<minecraft:iron_ingot>, Iron Ingot
+<minecraft:iron_leggings>, Iron Leggings
+<minecraft:iron_ore>, Iron Ore
+<minecraft:iron_pickaxe>, Iron Pickaxe
+<minecraft:iron_shovel>, Iron Shovel
+<minecraft:iron_sword>, Iron Sword
+<minecraft:item_frame>, Item Frame
+<minecraft:jukebox>, Jukebox
+<minecraft:jungle_stairs>, Jungle Wood Stairs
+<minecraft:ladder>, Ladder
+<minecraft:lapis_block>, Lapis Lazuli Block
+<minecraft:lapis_ore>, Lapis Lazuli Ore
+<minecraft:lava>, Lava
+<minecraft:lava_bucket>, Lava Bucket
+<minecraft:lead>, Lead
+<minecraft:leather>, Leather
+<minecraft:leather_boots>, Leather Boots
+<minecraft:leather_chestplate>, Leather Tunic
+<minecraft:leather_helmet>, Leather Cap
+<minecraft:leather_leggings>, Leather Pants
+<minecraft:leaves>, Oak Leaves
+<minecraft:leaves2>, Acacia Leaves
+<minecraft:lever>, Lever
+<minecraft:light_weighted_pressure_plate>, Weighted Pressure Plate (Light)
+<minecraft:lit_furnace>, Furnace
+<minecraft:lit_pumpkin>, Jack o'Lantern
+<minecraft:log>, Oak Wood
+<minecraft:log2>, Acacia Wood
+<minecraft:magma_cream>, Magma Cream
+<minecraft:map>, Empty Map
+<minecraft:melon>, Melon
+<minecraft:melon_block>, Melon
+<minecraft:melon_seeds>, Melon Seeds
+<minecraft:milk_bucket>, Milk
+<minecraft:minecart>, Minecart
+<minecraft:mob_spawner>, Monster Spawner
+<minecraft:monster_egg>, Stone Monster Egg
+<minecraft:mossy_cobblestone>, Moss Stone
+<minecraft:mushroom_stew>, Mushroom Stew
+<minecraft:mycelium>, Mycelium
+<minecraft:name_tag>, Name Tag
+<minecraft:nether_brick>, Nether Brick
+<minecraft:nether_brick_fence>, Nether Brick Fence
+<minecraft:nether_brick_stairs>, Nether Brick Stairs
+<minecraft:nether_star>, Nether Star
+<minecraft:nether_wart>, Nether Wart
+<minecraft:netherbrick>, Nether Brick
+<minecraft:netherrack>, Netherrack
+<minecraft:noteblock>, Note Block
+<minecraft:oak_stairs>, Oak Wood Stairs
+<minecraft:obsidian>, Obsidian
+<minecraft:packed_ice>, Packed Ice
+<minecraft:painting>, Painting
+<minecraft:paper>, Paper
+<minecraft:piston>, Piston
+<minecraft:planks>, Oak Wood Planks
+<minecraft:poisonous_potato>, Poisonous Potato
+<minecraft:porkchop>, Raw Porkchop
+<minecraft:portal>, Portal
+<minecraft:potato>, Potato
+<minecraft:potatoes>, Potatoes
+<minecraft:potion>, Water Bottle
+<minecraft:pumpkin>, Pumpkin
+<minecraft:pumpkin_pie>, Pumpkin Pie
+<minecraft:pumpkin_seeds>, Pumpkin Seeds
+<minecraft:quartz>, Nether Quartz
+<minecraft:quartz_block>, Block of Quartz
+<minecraft:quartz_ore>, Nether Quartz Ore
+<minecraft:quartz_stairs>, Quartz Stairs
+<minecraft:rail>, Track
+<minecraft:record_11>, Music Disc
+<minecraft:record_13>, Music Disc
+<minecraft:record_blocks>, Music Disc
+<minecraft:record_cat>, Music Disc
+<minecraft:record_chirp>, Music Disc
+<minecraft:record_far>, Music Disc
+<minecraft:record_mall>, Music Disc
+<minecraft:record_mellohi>, Music Disc
+<minecraft:record_stal>, Music Disc
+<minecraft:record_strad>, Music Disc
+<minecraft:record_wait>, Music Disc
+<minecraft:record_ward>, Music Disc
+<minecraft:red_flower>, Poppy
+<minecraft:red_mushroom>, Mushroom
+<minecraft:red_mushroom_block>, Mushroom
+<minecraft:redstone>, Redstone
+<minecraft:redstone_block>, Block of Redstone
+<minecraft:redstone_lamp>, Redstone Lamp
+<minecraft:redstone_ore>, Redstone Ore
+<minecraft:redstone_torch>, Redstone Torch
+<minecraft:reeds>, Sugar Canes
+<minecraft:repeater>, Redstone Repeater
+<minecraft:rotten_flesh>, Rotten Flesh
+<minecraft:saddle>, Saddle
+<minecraft:sand>, Sand
+<minecraft:sandstone>, Sandstone
+<minecraft:sandstone_stairs>, Sandstone Stairs
+<minecraft:sapling>, Oak Sapling
+<minecraft:shears>, Shears
+<minecraft:sign>, Sign
+<minecraft:skull>, Skeleton Skull
+<minecraft:slime_ball>, Slimeball
+<minecraft:snow>, Snow
+<minecraft:snow_layer>, Snow
+<minecraft:snowball>, Snowball
+<minecraft:soul_sand>, Soul Sand
+<minecraft:spawn_egg>, Spawn
+<minecraft:speckled_melon>, Glistering Melon
+<minecraft:spider_eye>, Spider Eye
+<minecraft:sponge>, Sponge
+<minecraft:spruce_stairs>, Spruce Wood Stairs
+<minecraft:stained_glass>, White Stained Glass
+<minecraft:stained_glass_pane>, White Stained Glass Pane
+<minecraft:stained_hardened_clay>, White Stained Clay
+<minecraft:stick>, Stick
+<minecraft:sticky_piston>, Sticky Piston
+<minecraft:stone>, Stone
+<minecraft:stone_axe>, Stone Axe
+<minecraft:stone_brick_stairs>, Stone Brick Stairs
+<minecraft:stone_button>, Button
+<minecraft:stone_hoe>, Stone Hoe
+<minecraft:stone_pickaxe>, Stone Pickaxe
+<minecraft:stone_pressure_plate>, Pressure Plate
+<minecraft:stone_shovel>, Stone Shovel
+<minecraft:stone_slab>, Stone Slab
+<minecraft:stone_stairs>, Stone Stairs
+<minecraft:stone_sword>, Stone Sword
+<minecraft:stonebrick>, Stone Bricks
+<minecraft:string>, String
+<minecraft:sugar>, Sugar
+<minecraft:tallgrass>, Shrub
+<minecraft:tnt>, TNT
+<minecraft:tnt_minecart>, TNT Cart
+<minecraft:torch>, Torch
+<minecraft:trapdoor>, Trapdoor
+<minecraft:trapped_chest>, Trapped Chest
+<minecraft:tripwire_hook>, Tripwire Hook
+<minecraft:vine>, Vines
+<minecraft:water>, Water
+<minecraft:water_bucket>, Water Bucket
+<minecraft:waterlily>, Lily Pad
+<minecraft:web>, Cobweb
+<minecraft:wheat>, Wheat
+<minecraft:wheat_seeds>, Seeds
+<minecraft:wooden_axe>, Wooden Axe
+<minecraft:wooden_button>, Button
+<minecraft:wooden_door>, Wooden Door
+<minecraft:wooden_hoe>, Wooden Hoe
+<minecraft:wooden_pickaxe>, Wooden Pickaxe
+<minecraft:wooden_pressure_plate>, Pressure Plate
+<minecraft:wooden_shovel>, Wooden Shovel
+<minecraft:wooden_slab>, Oak Wood Slab
+<minecraft:wooden_sword>, Wooden Sword
+<minecraft:wool>, Wool
+<minecraft:writable_book>, Book and Quill
+<minecraft:written_book>, Written Book
+<minecraft:yellow_flower>, Dandelion
+<powersuits:item.powerArmorBoots>, Power Armor Boots
+<powersuits:item.powerArmorChestplate>, Power Armor Chestplate
+<powersuits:item.powerArmorHelmet>, Power Armor Helmet
+<powersuits:item.powerArmorLeggings>, Power Armor Leggings
+<powersuits:item.powerFist>, Power Fist
+<powersuits:powerArmorComponent>, Wiring
+<powersuits:tile.luxCapacitor>, Lux Capacitor
+<powersuits:tile.tinkerTable>, Power Armor Tinker Table
+<thaumcraftneiplugin:Aspect>, 
+<waystones:warpScroll>, Return Scroll
+<waystones:warpStone>, Warp Stone
+<waystones:waystone>, Waystone
+<weaponmod:battleaxe.diamond>, Diamond Battleaxe
+<weaponmod:battleaxe.gold>, Golden Battleaxe
+<weaponmod:battleaxe.iron>, Iron Battleaxe
+<weaponmod:battleaxe.stone>, Stone Battleaxe
+<weaponmod:battleaxe.wood>, Wooden Battleaxe
+<weaponmod:blowgun>, Blowgun
+<weaponmod:blunder-ironpart>, Blunderbuss Barrel
+<weaponmod:blunderbuss>, Blunderbuss
+<weaponmod:bolt>, Crossbow Bolt
+<weaponmod:boomerang.diamond>, Diamond Boomerang
+<weaponmod:boomerang.gold>, Golden Boomerang
+<weaponmod:boomerang.iron>, Iron Boomerang
+<weaponmod:boomerang.stone>, Stone Boomerang
+<weaponmod:boomerang.wood>, Wooden Boomerang
+<weaponmod:bullet>, Musket Round
+<weaponmod:cannon>, Cannon
+<weaponmod:cannonball>, Cannon Ball
+<weaponmod:crossbow>, Crossbow
+<weaponmod:dart>, Poisonous Dart
+<weaponmod:dummy>, Training Dummy
+<weaponmod:dynamite>, Dynamite
+<weaponmod:firerod>, Fire Rod
+<weaponmod:flail.diamond>, Diamond Flail
+<weaponmod:flail.gold>, Golden Flail
+<weaponmod:flail.iron>, Iron Flail
+<weaponmod:flail.stone>, Stone Flail
+<weaponmod:flail.wood>, Wooden Flail
+<weaponmod:flintlock>, Flintlock Pistol
+<weaponmod:gun-stock>, Gun Stock
+<weaponmod:halberd.diamond>, Diamond Halberd
+<weaponmod:halberd.gold>, Golden Halberd
+<weaponmod:halberd.iron>, Iron Halberd
+<weaponmod:halberd.stone>, Stone Halberd
+<weaponmod:halberd.wood>, Wooden Halberd
+<weaponmod:javelin>, Javelin
+<weaponmod:katana.diamond>, Diamond Katana
+<weaponmod:katana.gold>, Golden Katana
+<weaponmod:katana.iron>, Iron Katana
+<weaponmod:katana.stone>, Stone Katana
+<weaponmod:katana.wood>, Wooden Katana
+<weaponmod:knife.diamond>, Diamond Knife
+<weaponmod:knife.gold>, Golden Knife
+<weaponmod:knife.iron>, Iron Knife
+<weaponmod:knife.stone>, Stone Knife
+<weaponmod:knife.wood>, Wooden Knife
+<weaponmod:musket>, Musket
+<weaponmod:musket-ironpart>, Musket Barrel
+<weaponmod:musketbayonet.diamond>, Musket with Diamond Bayonet
+<weaponmod:musketbayonet.gold>, Musket with Golden Bayonet
+<weaponmod:musketbayonet.iron>, Musket with Iron Bayonet
+<weaponmod:musketbayonet.stone>, Musket with Stone Bayonet
+<weaponmod:musketbayonet.wood>, Musket with Wooden Bayonet
+<weaponmod:shot>, Blunderbuss Shot
+<weaponmod:spear.diamond>, Diamond Spear
+<weaponmod:spear.gold>, Golden Spear
+<weaponmod:spear.iron>, Iron Spear
+<weaponmod:spear.stone>, Stone Spear
+<weaponmod:spear.wood>, Wooden Spear
+<weaponmod:warhammer.diamond>, Diamond Warhammer
+<weaponmod:warhammer.gold>, Golden Warhammer
+<weaponmod:warhammer.iron>, Iron Warhammer
+<weaponmod:warhammer.stone>, Stone Warhammer
+<weaponmod:warhammer.wood>, Wooden Warhammer
