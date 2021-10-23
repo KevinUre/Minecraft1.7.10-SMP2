@@ -43,7 +43,7 @@ ofStars:true
 ofSunMoon:true
 ofVignette:0
 ofChunkUpdates:3
-ofChunkLoading:2
+ofChunkLoading:0
 ofChunkUpdatesDynamic:true
 ofTime:0
 ofClearWater:false
@@ -54,7 +54,7 @@ ofBetterSnow:true
 ofSwampColors:true
 ofRandomMobs:true
 ofSmoothBiomes:false
-ofCustomFonts:false
+ofCustomFonts:true
 ofCustomColors:true
 ofCustomSky:true
 ofShowCapes:true
