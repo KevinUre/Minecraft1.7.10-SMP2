@@ -1,0 +1,16 @@
+# Inherited Whitelisting from Root
+!config/
+!config/*
+
+!mods/
+!mods/*
+
+!scripts/
+!scripts/*
+
+!options.txt
+!optionsof.txt
+!optionsshaders.txt
+!render_player_api_Enhancer_classnamepatterns.txt
+!render_player_api_Enhancer_classnames.txt
+!smart_moving_options.txt

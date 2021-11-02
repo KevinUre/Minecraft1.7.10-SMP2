@@ -1,0 +1,11 @@
+# Enable Whitelisting Pattern
+*
+# Whitelist
+!.gitignore
+!.gitattributes
+!1.7.10.DM900-2/
+!versions/
+#!bin/
+#!bin/*
+!forge-1.7.10-10.13.4.1614-1.7.10-installer-win.exe
+!README.md
