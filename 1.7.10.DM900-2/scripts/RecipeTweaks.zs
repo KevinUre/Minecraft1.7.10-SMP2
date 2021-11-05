@@ -125,7 +125,7 @@ recipes.addShaped(<IC2:blockMachine2:6>,
 	[<IC2:itemcrystalmemory>, <IC2:blockMachine:12>, <IC2:itemcrystalmemory>],
 	[<BuildCraft|Silicon:laserBlock>, <ore:circuitAdvanced>, <BuildCraft|Silicon:laserBlock>]]);
 
-# Jet Packs
+# Jet Packs (requires nether and advanced machinery)
 recipes.remove(<IC2:itemArmorJetpackElectric>);
 recipes.remove(<IC2:itemArmorJetpack>);
 recipes.addShaped(<IC2:itemArmorJetpack>, 
@@ -138,9 +138,15 @@ recipes.remove(<IC2:blockPersonal:1>);
 recipes.remove(<IC2:blockPersonal:2>);
 recipes.remove(<Railcraft:machine.alpha:6>); 
 
-# Ritual Diviner
+# Ritual Diviner (requires ender dragon kill now)
 recipes.remove(<AWWayofTime:itemRitualDiviner>);
 recipes.addShaped(<AWWayofTime:itemRitualDiviner>,
     [[<ore:blockDiamond>, <AWWayofTime:airScribeTool>, <ore:blockDiamond>],
 	[<AWWayofTime:waterScribeTool>, <minecraft:end_stone>, <AWWayofTime:fireScribeTool>],
 	[<ore:blockDiamond>, <AWWayofTime:earthScribeTool>, <ore:blockDiamond>]]);
+
+# Bed (now with leather as well)
+recipes.addShaped(<minecraft:bed>,
+    [[null, null, null],
+	[<minecraft:leather>, <minecraft:leather>, <minecraft:leather>],
+	[<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]]);
