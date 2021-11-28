@@ -4,6 +4,7 @@
 !.gitignore
 !.gitattributes
 !1.7.10.DM900-2/
+!powershellScripts/
 !versions/
 #!bin/
 #!bin/*
