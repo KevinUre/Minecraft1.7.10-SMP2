@@ -1,14 +1,14 @@
-﻿# If the current script is not elevated reload the script in an elevated environment
-$currentPrincipal = New-Object Security.Principal.WindowsPrincipal([Security.Principal.WindowsIdentity]::GetCurrent())
-if(-NOT ($currentPrincipal.IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator))) {
-   Write-Host 'rebooting as admin powershell'
-   Start-Process -FilePath "powershell" -ArgumentList "$('-File ""')$($PSScriptRoot)$('\')$($MyInvocation.MyCommand.Name)$('""')" -Verb runAs
-   Exit 0
-}
+﻿# # If the current script is not elevated reload the script in an elevated environment
+# $currentPrincipal = New-Object Security.Principal.WindowsPrincipal([Security.Principal.WindowsIdentity]::GetCurrent())
+# if(-NOT ($currentPrincipal.IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator))) {
+#    Write-Host 'rebooting as admin powershell'
+#    Start-Process -FilePath "powershell" -ArgumentList "$('-File ""')$($PSScriptRoot)$('\')$($MyInvocation.MyCommand.Name)$('""')" -Verb runAs
+#    Exit 0
+# }
 
 # Set up a temp directory for us to work out of
-New-Item -Name C:\temp-minecraft -ItemType Directory
-Set-Location C:\temp-minecraft
+New-Item -Name "C:\Users\$env:username\AppData\Roaming\temp-minecraft" -ItemType Directory
+Set-Location "C:\Users\$env:username\AppData\Roaming\temp-minecraft"
 
 # Install git if it is not already present
 if (!(Get-Command git)) {
@@ -75,6 +75,7 @@ Start-Process 'C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Minecraft La
 # Install Forge
 [System.Windows.MessageBox]::Show('Simply click OK on the next installer')
 Invoke-WebRequest -Uri https://maven.minecraftforge.net/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-installer.jar -OutFile forgeInstall.jar
+Start-Process .\forgeInstall.jar -Wait
 
 # Install the Mods
 git lfs install
@@ -104,5 +105,5 @@ $Shortcut.TargetPath = "C:\Users\$env:username\AppData\Roaming\.minecraft\powers
 $Shortcut.Save()
 
 # Clean up after installs
-Set-Location C:
-Remove-Item -Recurse -Force C:\temp-minecraft
+Set-Location "C:\Users\$env:username\AppData\Roaming"
+Remove-Item -Recurse -Force "C:\Users\$env:username\AppData\Roaming\temp-minecraft"
