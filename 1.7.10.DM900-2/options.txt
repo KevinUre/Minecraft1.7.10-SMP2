@@ -28,7 +28,7 @@ fullscreen:false
 enableVsync:false
 hideServerAddress:false
 advancedItemTooltips:false
-pauseOnLostFocus:true
+pauseOnLostFocus:false
 showCape:true
 touchscreen:false
 overrideWidth:0
@@ -93,11 +93,18 @@ key_Side Inventory Key:46
 key_Hub Expand Key:45
 key_Draw Weapons:19
 key_Special:36
+key_key.archimedes.up:72
+key_key.archimedes.down:80
+key_key.archimedes.brake:76
+key_key.archimedes.align:13
+key_key.archimedes.decompile:43
+key_key.archimedes.shipinv:82
 key_Baubles Inventory:48
 key_Change Wand Focus:33
 key_Activate Hover Harness:35
 key_Misc Wand Toggle:34
 key_invtweaks.key.sort:19
+key_key.llor.hotkey:62
 key_Toggle Numina FOV fix :0
 key_Open MPS Keybind GUI:-1
 key_Go Down (MPS Flight Control):44
